@@ -26,24 +26,24 @@
         StudiStay
         <br>
         <div style="text-align: center; margin-top: 10px;">
-                <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1147743612243824691/logo.JPG" alt="StudiStay" width="70px">
+                <img src="assets/img/studystay.png" alt="StudiStay" width="70px">
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
     Uniplaces
     <div style="text-align: center;">
-                <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1147749976819105812/uniplaces-logo-small.png" alt="Uniplaces" width="80px">
+                <img src="assets/img/uniplaces.png" alt="uniplaces" width="70px">
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
       HousingAnywhere
       <div style="text-align: center; margin-top: 20px;">
-                <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1147751201614606387/Housing_Anywhere_logo.png" alt="HousingAnywhere" width="80px">
+                <img src="assets/img/housinganywhere.png" alt="HousingAnywhere" width="80px">
             </div>
       </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
       Spotahome
       <div style="text-align: center; margin-top: 10px;">
-                <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1147751481978671144/th_main.png" alt="Spotahome" width="120px">
+                <img src="assets/img/spotahome.png" alt="Spotahome" width="120px">
             </div>
     </td>
   </tr>
