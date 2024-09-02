@@ -48,15 +48,6 @@
 </div>
 <br>
 
-### <center>Ciclo: 2023-02 | Noviembre, 2023</center>
-<br>
-
-<div align="center">
-
-Link al video de exposición: [Video de exposición TF1 - StudiStay](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EfEUQiHbqN1OlRo9oz0WPy0BUIVO-5emcS-vqvxje5U02A?e=DSvUeB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-</div>
-
 # Registro de Versiones del Informe
 
 | Versión |   Fecha    |              Autor               | Descripción de modificación | 
