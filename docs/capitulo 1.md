@@ -83,20 +83,20 @@ Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias 
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            nombre, apellido
+            Ariana Huapaya Buitron
         </td>
    <tr>
         <td align="left">
         <b>Codigo:</b>
         <br>
-        codigo
+        U201819645
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Descripción de carrera:</b>
         <br>
-descripcion de carrera        </td>
+En Ingeniería de Software, nos enfocamos en la programación, la adaptabilidad y la naturaleza dinámica del software, ya sea en su desarrollo desde cero o en la mejora de uno existente. Aplicamos técnicas y métodos propios de la ingeniería para asegurar su calidad, así como para ofrecer mantenimiento y soporte operativo continuo.        </td>
     </tr>
     <tr>
         <td align="left">
