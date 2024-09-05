@@ -163,11 +163,46 @@ En nuestra aplicación web, utilizaremos un proceso similar al descrito, con div
 
 ### 4.4.1. Web Applications Wireframes.
 
+<div align=center>
+    <img src="assets/img/wire1.JPG" alt="m05"  width="100%"/>
+</div> 
+
+<div align=center>
+    <img src="assets/img/wire3.JPG" alt="m05"  width="100%"/>
+</div> 
+
+<div align=center>
+    <img src="assets/img/Wire2.JPG" alt="m05"  width="100%"/>
+</div> 
+
+<div align=center>
+    <img src="assets/img/wire4.JPG" alt="m05"  width="100%"/>
+</div> 
+
+<div align=center>
+    <img src="assets/img/Wire6.JPG" alt="m05"  width="100%"/>
+</div> 
+
+<div align=center>
+    <img src="assets/img/Wire5.JPG" alt="m05"  width="100%"/>
+</div> 
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+ **User Goal:** Ingresar a la pantalla principal de la aplicacion
+
+<div align=center>
+    <img src="assets/img/Web%20Application%20Wireflow%20Diagram.jpeg" alt="m05"  width="100%"/>
+</div> 
 
 ### 4.4.3. Web Applications Mock-ups.
 
+
+
 ### 4.4.4. Web Applications User Flow Diagrams.
+
+
 
 ## 4.5. Web Applications Prototyping.
 
