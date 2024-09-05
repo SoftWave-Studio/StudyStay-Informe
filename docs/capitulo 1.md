@@ -105,31 +105,32 @@ En Ingeniería de Software, nos enfocamos en la programación, la adaptabilidad 
 descripcion de hablidades       </td>
     </tr>
 <td rowspan="4">
-            <img src="assets/img/nombre archivo" alt="Integrante4" style="margin-bottom: 5px;" width="600"/>
+            <img src="assets/img/FabioHorna.jpg" alt="Integrante4" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            nombre, apellido
+            Fabio, Horna Silva
         </td>
    <tr>
         <td align="left">
         <b>Codigo:</b>
         <br>
-        codigo
+        U202020229
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Descripción de carrera:</b>
         <br>
-descripcion de carrera        </td>
+a carrera de Ingeniería de Software en la UPC forma profesionales en el diseño, desarrollo y gestión de soluciones de software de alta calidad. Su plan de estudios combina teoría y práctica, abarcando programación, desarrollo de aplicaciones, arquitectura de software, gestión de proyectos ágiles, y aseguramiento de la calidad. Los egresados están preparados para liderar equipos de desarrollo, crear soluciones tecnológicas innovadoras y contribuir al avance tecnológico.        
+        </td>
     </tr>
     <tr>
         <td align="left">
         <b>Conocimiento y habilidades:</b>
         <br>
-descripcion de hablidades       </td>
+Soy sumamente apasionado al análisis de datos y a los videojuegos. Actualmente me encuentro trabajando como analista de datos y poseo conocimientos avanzados de redes neuronales, SQL, y otras herramientas como Python, donde manejo pandas y otras herramientas para la minería de datos. Me considero una buena persona para trabajar en equipo y me gusta ayudar a mis compañeros.        </td>
     </tr>
 <td rowspan="4">
             <img src="assets/img/nombre archivo" alt="Integrante5" style="margin-bottom: 5px;" width="600"/>
