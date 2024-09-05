@@ -19,7 +19,7 @@ StudiStay no solo cambiará cómo los estudiantes encuentran alojamiento, sino q
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="4">
-            <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1148756119347544094/43178475.png" alt="Integrante1" style="margin-bottom: 5px;" width="600"/>
+            <img src="assets/img/Integrante-Luis.png" alt="Integrante1" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
