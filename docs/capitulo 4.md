@@ -195,7 +195,24 @@ El sistema de navegación es fundamental para guiar a los usuarios a través del
 
 ### 4.4.3. Web Applications Mock-ups.
 
-
+<div align=center>
+    <img src="assets/img/Mockup1.JPG" alt="m05"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="assets/img/Mockup2.JPG" alt="m05"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="assets/img/Mockup3.JPG" alt="m05"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="assets/img/Mockup4.JPG" alt="m05"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="assets/img/Mockup5.JPG" alt="m05"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="assets/img/Mockup6.JPG" alt="m05"  width="100%"/>
+</div> 
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
