@@ -238,6 +238,8 @@ del ABET – EAC - Student Outcome 5.
 Francisco Hurtado Palomino TB1: Me encargue de realizar el análisis de la competencia, entrevistas y necesidades de los usuarios, ademas de la correccion completa del informe con nuevos detalles.
                 <br>
 Luis Aejo Cardenas TB1: Me encargue del desarrolo de la App Web y APIResful, usando python, FastAPI, javascript, vue y html.
+<br>
+Tony Torres Cortez TB1: Me encargue realizar y resumir entrevista, ademas de redactar el capitulo V y la creacion del repositorio de acceptance tests.
    </td>
 
   </tr>
@@ -247,6 +249,8 @@ Luis Aejo Cardenas TB1: Me encargue del desarrolo de la App Web y APIResful, usa
 Francisco Hurtado Palomino TB1: Utilice mi conocimiento en lenguaje .md para la creacion  del informe.
         <br>
 Luis Aejo Cardenas TB1: Utilice Vercel para el deploy del FrontEnd, Clever Cloud para la base de datos y Render para el APIRestful
+<br>
+Tony Torres Cortez TB1: Utilice mi conocimiento para redacciones y rectificaciones en lenguaje html y .md.
    </td>
   </tr>
 </table>
