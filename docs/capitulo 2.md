@@ -263,11 +263,11 @@ Franco Yance, un estudiante de 24 años, menciona que está buscando un lugar pa
 
 **Entrevistado 3**
 
-Nombres:
+Nombres: Joseph Lewin
 
-Apellidos:
+Apellidos: Adrianzen Bayona
 
-Edad:
+Edad: 24 años
 
 Distrito: 
 
@@ -276,6 +276,7 @@ Enlace de la entrevista: [Entrevista Joseph](https://upcedupe-my.sharepoint.com/
 ![img.png](assets/img/Estudiante3.png)
 
 Resumen de la entrevista:
+La entrevista con Joseph proporcionó información valiosa sobre los desafíos que enfrentan los estudiantes a la hora de buscar una habitación cerca de su universidad. Uno de los desafíos principales son los precios de alquiler, la poca disponibilidad de los arrendadores para concretar los contratos de manera rápida y segura. Además, está interesado en lugares que ofrezcan buenos servicios como internet, supermercados y centros de salud cercanos. Joseph expresó interés en una aplicación web que proporcione seguridad y confianza a la hora de querer alquilar una habitación, sus principales dudas serían el tamaño de la habitación, los servicios básicos ofrecidos y un centro de salud cercano,
 
 
 
