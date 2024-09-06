@@ -414,5 +414,11 @@ Desarrollo e implementación de los estilos que corresponden a los servicios de 
 
 
 ## 5.2.7. Team Collaboration Insights
+StudyStay-LandigPage:
+![GH3](https://github.com/user-attachments/assets/cdbd2ea7-d69c-48ca-b14b-9d87b518df35)
 
-# imagen
+StudyStay-FrontEnd:
+![GH2](https://github.com/user-attachments/assets/142a6feb-e87b-4db5-88ee-27f6a8a647a3)
+
+StudyStay-BackEnd:
+![GH1](https://github.com/user-attachments/assets/7f44a37c-e351-4cfa-b50d-5ef7fe3ea47a)
