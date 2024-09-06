@@ -276,9 +276,8 @@ Enlace de la entrevista: [Entrevista Joseph](https://upcedupe-my.sharepoint.com/
 ![img.png](assets/img/Estudiante3.png)
 
 Resumen de la entrevista:
+
 La entrevista con Joseph proporcionó información valiosa sobre los desafíos que enfrentan los estudiantes a la hora de buscar una habitación cerca de su universidad. Uno de los desafíos principales son los precios de alquiler, la poca disponibilidad de los arrendadores para concretar los contratos de manera rápida y segura. Además, está interesado en lugares que ofrezcan buenos servicios como internet, supermercados y centros de salud cercanos. Joseph expresó interés en una aplicación web que proporcione seguridad y confianza a la hora de querer alquilar una habitación, sus principales dudas serían el tamaño de la habitación, los servicios básicos ofrecidos y un centro de salud cercano,
-
-
 
 <span style="font-size: 20px;">**Segmento 2: Arrendadores**</span>
 
@@ -315,8 +314,8 @@ Enlace de la entrevista: [Entrevista Veronica](https://upcedupe-my.sharepoint.co
 ![img.png](assets/img/Arrendador2.png)
 
 Resumen de la entrevista:
-En la entrevista, Veronica Cortez Nonajulca, una señora de 43 años que reside en el Callao nos comenta que ademas de ser coordinadora academica arrenda habitaciones a estudiantes universitarios, nos comenta que la comodidad y el espacio son su mayor prioridad al ofrecer una habitacion a sus clientes. Uno de las problematicas que nos menciona es la garantía debido a diferentes factores que pueden afectarla o comprometerla de manera economica. Resalta que una aplicación que asista en sus servicios sería de gran utilidad, ya que la innovación tecnológica permite mostrar en tiempo real características y actualizaciones, lo que resulta en una experiencia de usuario mejorada.
 
+En la entrevista, Veronica Cortez Nonajulca, una señora de 43 años que reside en el Callao nos comenta que ademas de ser coordinadora academica arrenda habitaciones a estudiantes universitarios, nos comenta que la comodidad y el espacio son su mayor prioridad al ofrecer una habitacion a sus clientes. Uno de las problematicas que nos menciona es la garantía debido a diferentes factores que pueden afectarla o comprometerla de manera economica. Resalta que una aplicación que asista en sus servicios sería de gran utilidad, ya que la innovación tecnológica permite mostrar en tiempo real características y actualizaciones, lo que resulta en una experiencia de usuario mejorada.
 
 **Entrevistado 3**
 
@@ -388,11 +387,11 @@ Se realizaron entrevistas con propietarios interesados en alquilar a estudiantes
 
 **Segmento 1: Estudiantes que buscan información sobre habitaciones**
 
-<img src="https://cdn.discordapp.com/attachments/1146490170917535764/1147937350203232386/Mario_Manrique.png"/>
+<img src="assets/img/UserPersona1.png"/>
 
 **Segmento 2: Arrendadores que buscan alquilar habitaciones**
 
-<img src="https://cdn.discordapp.com/attachments/1146490170917535764/1147937702092738662/Maria_Alvarez.png"/>
+<img src="assets/img/Userpersona2.png"/>
 
 ### 2.3.2. User Task Matrix
 
