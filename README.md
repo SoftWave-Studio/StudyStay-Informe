@@ -241,7 +241,9 @@ Luis Aejo Cardenas TB1: Me encargue del desarrolo de la App Web y APIResful, usa
 <br>
 Tony Torres Cortez TB1: Me encargue realizar y resumir entrevista, ademas de redactar el capitulo V y la creacion del repositorio de acceptance tests.
 <br>
-Ariana Huapaya TB1: Me encargue realizar  Web Applications UX/UI Design., ademas del Software Object-Oriented Design y el Database Design.
+Ariana Huapaya TB1: Me encargue realizar  Web Applications UX/UI Design., ademas del Software Object-Oriented Design y el Database Design. <br>
+Fabio Horna  TB1:Realize los mock ups, y el detalle de la solucion, diseño e implementacion de nuestra landing page tratamndo de mantener y respetar lo establñecido por normnas y cirterios de creacion de software y pautas de diseño al usuario.
+                <br>
    </td>
 
   </tr>
@@ -254,7 +256,8 @@ Luis Aejo Cardenas TB1: Utilice Vercel para el deploy del FrontEnd, Clever Cloud
 <br>
 Tony Torres Cortez TB1: Utilice mi conocimiento para redacciones y rectificaciones en lenguaje html y .md.
         <br>
-Ariana Huapaya Buitron TB1: He aplicado mis habilidades en el diseño de UX/UI, diseño orientado a objetos, y diseño de bases de datos en el sector de aplicaciones web educativas, ayudando a crear soluciones que mejoran la experiencia del usuario y optimizan la gestión de información en plataformas digitales
+Ariana Huapaya Buitron TB1: He aplicado mis habilidades en el diseño de UX/UI, diseño orientado a objetos, y diseño de bases de datos en el sector de aplicaciones web educativas, ayudando a crear soluciones que mejoran la experiencia del usuario y optimizan la gestión de información en plataformas digitales. <br>
+Fabio Horna  TB1: Utilice diferente herramientas para la implementacion de la aplciacion relacionando problemas con caracteristicas funcionales para luego implementarlas
    </td>
   </tr>
 </table>
