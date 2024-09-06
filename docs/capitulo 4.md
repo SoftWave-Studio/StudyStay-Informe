@@ -112,19 +112,25 @@ El sistema de navegación es fundamental para guiar a los usuarios a través del
 ### 4.3.1. Landing Page Wireframe.
 
 <div align=center>
-    <img src="assets/img/wireframe1.png" alt="m1"  width="100%"/>
+    <img src="assets/img/Wireframe1.png" alt="m1"  width="100%"/>
 </div> 
 <div align=center>
     <img src="assets/img/wireframe2.png" alt="m2"  width="100%"/>
 </div> 
 <div align=center>
-    <img src="assets/img/wireframe3.png" alt="m3"  width="100%"/>
+    <img src="assets/img/Wireframe3.png" alt="m3"  width="100%"/>
 </div> 
 <div align=center>
-    <img src="assets/img/wireframe4.png" alt="m4"  width="100%"/>
+    <img src="assets/img/Wireframe4.png" alt="m4"  width="100%"/>
 </div> 
 <div align=center>
     <img src="assets/img/wireframe5.png" alt="m5"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="assets/img/wireframe6.png" alt="m5"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="assets/img/wireframe7.png" alt="m5"  width="100%"/>
 </div> 
 <br>
 
