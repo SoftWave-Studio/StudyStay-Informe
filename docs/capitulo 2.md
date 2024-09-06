@@ -269,7 +269,7 @@ Apellidos: Adrianzen Bayona
 
 Edad: 24 años
 
-Distrito: 
+Distrito: San Martin de Porres
 
 Enlace de la entrevista: [Entrevista Joseph](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EcKdtnt69FBDvVp3QQEiDX4BN-5pwGuTNCv_P23aRjg-Hw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=J2bi3l)
 
@@ -319,13 +319,13 @@ Resumen de la entrevista:
 
 **Entrevistado 3**
 
-Nombres:
+Nombres: Sebastian
 
-Apellidos:
+Apellidos: Bustinza
 
-Edad:
+Edad: 22 años
 
-Distrito:
+Distrito: Los Olivos
 
 Enlace de la entrevista: [Entrevista Sebastian](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EeEieb0h1etBulqf0C27cw4BGOPr90zuhVxtBp44BjGe1A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=U4Epsj)
 
@@ -333,6 +333,7 @@ Enlace de la entrevista: [Entrevista Sebastian](https://upcedupe-my.sharepoint.c
 
 Resumen de la entrevista:
 
+La entrevista a Sebastian nos proporcionó información relevante sobre cuáles son las dificultades y obstáculos que se les presentan a los arrendadores a la hora del pago puntual y una manera de gestionar todas sus habitaciones.A su vez se preocupa por las comodidades que le ofrece a los estudiantes por ejemplo, electricida, agua, cocina, un lugar donde pueda hacer sus necesidades básicas y se encuentre cerca de su lugar de estudio. Nos comenta que en una aplicación le gustaría tener un medio de comunicación con sus clientes, además de agregar un apartado de comentarios para que otros clientes se interesen en sus habitaciones.
 
 ****
 
