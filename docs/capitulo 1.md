@@ -102,7 +102,7 @@ En Ingeniería de Software, nos enfocamos en la programación, la adaptabilidad 
         <td align="left">
         <b>Conocimiento y habilidades:</b>
         <br>
-descripcion de hablidades       </td>
+Tengo conocimiento en Python, C++, SQL y principalmente Javascript y Nodejs de los cuales tengo conocimiento para crear aplicaciones Back-end y APIS. Además tengo habilidades en lo que respecta a la resolución de problemas      </td>
     </tr>
 <td rowspan="4">
             <img src="assets/img/FabioHorna.jpg" alt="Integrante4" style="margin-bottom: 5px;" width="600"/>
