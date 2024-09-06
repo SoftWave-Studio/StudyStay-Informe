@@ -302,19 +302,20 @@ En la entrevista, Carlos Osvaldo Casemiro Fernández, un joven de 21 años que v
 
 **Entrevistado 2**
 
-Nombres:
+Nombres: Veronica
 
-Apellidos:
+Apellidos: Cortez Nonajulca 
 
-Edad:
+Edad: 43
 
-Distrito:
+Distrito: Callao
 
 Enlace de la entrevista: [Entrevista Veronica](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EZnTn9x3qe1FpWkDJHRGrDEB8Y07tnCS1HTnkOc_lhiHQQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=okj13r)
 
 ![img.png](assets/img/Arrendador2.png)
 
 Resumen de la entrevista:
+En la entrevista, Veronica Cortez Nonajulca, una señora de 43 años que reside en el Callao nos comenta que ademas de ser coordinadora academica arrenda habitaciones a estudiantes universitarios, nos comenta que la comodidad y el espacio son su mayor prioridad al ofrecer una habitacion a sus clientes. Uno de las problematicas que nos menciona es la garantía debido a diferentes factores que pueden afectarla o comprometerla de manera economica. Resalta que una aplicación que asista en sus servicios sería de gran utilidad, ya que la innovación tecnológica permite mostrar en tiempo real características y actualizaciones, lo que resulta en una experiencia de usuario mejorada.
 
 
 **Entrevistado 3**
