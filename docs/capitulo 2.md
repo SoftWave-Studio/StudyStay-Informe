@@ -233,31 +233,25 @@ Edad:
 
 Distrito: 
 
-Inicio: 
+Enlace de la entrevista:  
 
-Fin: 
-
-Enlace de la entrevista: 
-
-Resumen de la entrevista:
-
+Resumen de la entrevista: 
 **Entrevistado 2**
 
-Nombres:
+Nombres:Franco Felix 
 
-Apellidos:
+Apellidos: Yance Gutierrez
 
-Edad:
+Edad: 22
 
-Distrito:
+Distrito: Ancon
 
-Inicio:
 
-Fin:
+Enlace de la entrevista: [Ver video de YouTube](https://www.youtube.com/watch?v=7aXvhhLLTL4)
 
-Enlace de la entrevista:
+Resumen de la entrevista:Franco Yance, un estudiante de 24 años, menciona que está buscando un lugar para vivir cerca de su universidad en San Miguel, y señala que para él es importante encontrar un sitio con un precio accesible, sin mucho ruido y con buena iluminación para poder estudiar. Ha utilizado aplicaciones de alquiler anteriormente, pero solo para hoteles, y considera interesante una app exclusiva para estudiantes. Recomienda que dicha aplicación ofrezca opciones de pago diversas, como tarjetas y billeteras digitales, un sistema de recomendaciones, y una galería de imágenes de las propiedades. Finalmente, afirma que estaría dispuesto a usar una app de ese tipo.
 
-Resumen de la entrevista:
+
 
 **Entrevistado 3**
 
@@ -269,34 +263,29 @@ Edad:
 
 Distrito:
 
-Inicio:
-
-Fin:
-
 Enlace de la entrevista:
 
 Resumen de la entrevista:
+
 
 
 <span style="font-size: 20px;">**Segmento 2**</span>
 
 **Entrevistado 1**
 
-Nombres:
+Nombres: Carlos Oswaldo
 
-Apellidos:
+Apellidos: Cassimiro Fernandez
 
-Edad:
+Edad: 21
 
-Distrito:
+Distrito: Santa Anita
 
-Inicio:
+Enlace de la entrevista: [Ver video de YouTube](https://youtu.be/wn3yyVRTOjU)
 
-Fin:
+Resumen de la entrevista: En la entrevista, Carlos Osvaldo Casemiro Fernández, un joven de 21 años que vive en Santa Anita y trabaja en una inmobiliaria mientras estudia, habla sobre su experiencia en el alquiler de habitaciones para estudiantes. Explica que los lugares que ofrece suelen estar ubicados cerca de instituciones educativas para reducir el tiempo de desplazamiento. Carlos menciona que uno de los principales inconvenientes en el alquiler es la desconfianza hacia los inquilinos y la preocupación sobre la puntualidad en los pagos. También resalta los beneficios de un proceso de alquiler eficiente, como la mejora en la confianza y en el trato con los inquilinos. Considera que una aplicación podría ser muy útil para facilitar el alquiler de habitaciones, sugiriendo que debería incluir herramientas para ubicar propiedades, interactuar con los inquilinos y tener un soporte eficiente.
 
-Enlace de la entrevista:
 
-Resumen de la entrevista:
 
 **Entrevistado 2**
 
@@ -308,13 +297,10 @@ Edad:
 
 Distrito:
 
-Inicio:
-
-Fin:
-
 Enlace de la entrevista:
 
 Resumen de la entrevista:
+
 
 **Entrevistado 3**
 
@@ -325,10 +311,6 @@ Apellidos:
 Edad:
 
 Distrito:
-
-Inicio:
-
-Fin:
 
 Enlace de la entrevista:
 
