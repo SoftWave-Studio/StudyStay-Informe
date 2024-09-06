@@ -216,7 +216,9 @@ El sistema de navegación es fundamental para guiar a los usuarios a través del
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
-
+<div align=center>
+    <img src="assets/img/UserFlow.png" alt="m05"  width="100%"/>
+</div> 
 
 ## 4.5. Web Applications Prototyping.
 
@@ -224,18 +226,115 @@ El sistema de navegación es fundamental para guiar a los usuarios a través del
 
 ### 4.6.1. Software Architecture Context Diagram.
 
+<div align=center>
+    <img src="assets/img/ArchitectureDiagramContext.jpg" alt="m05"  width="100%"/>
+</div> 
+
 ### 4.6.2. Software Architecture Container Diagrams.
 
+<div align=center>
+    <img src="assets/img/ArchitectureContainerDiagram.JPG" alt="m05"  width="100%"/>
+</div> 
+
 ### 4.6.3. Software Architecture Components Diagrams.
+
+<div align=center>
+    <img src="assets/img/ArchitectureComponentsDiagram.png" alt="m05"  width="100%"/>
+</div> 
+
 
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
 
+<div align=center>
+    <img src="assets/img/ClaseDiagram.png" alt="m05"  width="100%"/>
+</div> 
+
 ### 4.7.2. Class Dictionary.
+
+<br>
+
+#### Usuario 
+#### Descripción: Clase que representa a cualquier tipo de usuario en la aplicación (Estudiante o Arrendador).
+#### Atributos:
+- nombre: String — El nombre del usuario.
+- correo: String — El correo electrónico utilizado para el acceso a la cuenta.
+- contraseña: String — La contraseña encriptada del usuario.
+- tipoUsuario: Enum — Tipo de usuario (Estudiante o Arrendador).
+- fotoPerfil: String — URL de la foto de perfil del usuario.
+#### Métodos:
+- registrar(): void — Registra un nuevo usuario en el sistema.
+- iniciarSesion(): Boolean — Verifica las credenciales y autentica al usuario.
+- editarPerfil(): void — Permite modificar los datos del perfil.
+- cambiarContraseña(): void — Permite cambiar la contraseña del usuario.
+
+<br>
+
+#### Estudiante (hereda de Usuario)
+#### Descripción: Representa a los estudiantes que utilizan la plataforma para buscar alojamiento.
+
+#### Atributos:
+
+- preferencias: List<String> — Lista de preferencias del estudiante (precio, tamaño, servicios).
+- favoritos: List<Propiedad> — Lista de propiedades guardadas como favoritas.
+#### Métodos:
+
+- buscarPropiedad(filtros: Map<String, Object>): List<Propiedad> — Permite a los estudiantes buscar propiedades usando filtros.
+- reservarPropiedad(propiedad: Propiedad): void — Reserva una propiedad para el estudiante.
+- añadirAFavoritos(propiedad: Propiedad): void — Añade una propiedad a la lista de favoritos del estudiante.
+- eliminarDeFavoritos(propiedad: Propiedad): void — Elimina una propiedad de la lista de favoritos.
+
+
+<br>
+
+#### Propiedad
+#### Descripción: Representa una propiedad que está disponible para alquilar en la plataforma.
+
+#### Atributos:
+
+- idPropiedad: String — Identificador único de la propiedad.
+- direccion: String — Dirección física de la propiedad.
+- descripcion: String — Descripción detallada de la propiedad.
+- precio: Double — Precio mensual de la propiedad.
+- tamaño: Double — Tamaño de la propiedad en metros cuadrados.
+- servicios: List<String> — Lista de servicios disponibles (ej. internet, lavandería).
+- fotos: List<String> — URLs de las fotos de la propiedad.
+- estadoDisponibilidad: Enum — Estado actual de la disponibilidad (Disponible, Reservada, NoDisponible).
+- arrendador: Arrendador — Arrendador propietario de la propiedad.
+
+#### Métodos:
+
+- consultarDisponibilidad(): Boolean — Verifica si la propiedad está disponible.
+- mostrarDetalles(): void — Muestra los detalles completos de la propiedad.
+
+<br>
+
+#### Reserva
+#### Descripción: Representa una reserva que realiza un estudiante para una propiedad.
+
+#### Atributos:
+
+- idReserva: String — Identificador único de la reserva.
+- estudiante: Estudiante — Estudiante que realiza la reserva.
+- propiedad: Propiedad — Propiedad reservada.
+- fechaInicio: Date — Fecha de inicio de la reserva.
+- fechaFin: Date — Fecha de fin de la reserva.
+- monto: Double — Monto total de la reserva.
+- estado: Enum — Estado de la reserva (Pendiente, Confirmada, Cancelada).
+
+#### Métodos:
+
+- confirmarReserva(): void — Confirma la reserva.
+- cancelarReserva(): void — Cancela la reserva.
+- modificarReserva(nuevasFechas: Map<String, Date>): void — Modifica las fechas de la reserva.
+
 
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
 
+<div align=center>
+    <img src="assets/img/Database%20Diagram.png" alt="m05"  width="100%"/>
+</div> 
 
