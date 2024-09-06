@@ -234,6 +234,8 @@ link de la [landing page](https://softwave-studio.github.io/StudyStay-LandigPage
 
 ![image](https://github.com/user-attachments/assets/5edc9ecb-682e-4a6b-a198-c37eb4a4060a)
 
+Link del APIRestful desplegado: https://studystay-backend.onrender.com/docs
+
 ## 5.2.1. Sprint Backlogs.
 
 <table align="center"  border="1" width="70%" style="text-align:center;">
@@ -377,7 +379,7 @@ Desarrollo e implementación de los estilos que corresponden a los servicios de 
 
 ![image](https://github.com/user-attachments/assets/787c8a23-cf6d-47b5-8739-0f44bca49e3f)
 
-
+Link del Frotend desplegado: https://study-stay-front-end-pi.vercel.app/
 
 
 ## 5.2.4. Implemented Native-Mobile Application Evidence
