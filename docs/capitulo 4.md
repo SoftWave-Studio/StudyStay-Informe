@@ -45,75 +45,66 @@ En esta sección se explicará el estilo y patrón que hace uso nuestra interfaz
     <img src="assets/img/webstyle1.png" alt="cuadro05"  width="100%"/>
 </div>
 
-## 4.2. Information Architecture.
-En esta sección, estableceremos la estructura y forma del software en relación a nuestros segmentos objetivos, así como los elementos y características que se usarán dentro de la navegación de la aplicación.
-### 4.2.1. Organization Systems.
-Para crear la sección del Landing Page y la Aplicación web, hemos utilizado una estructura visual jerárquica en la página web, lo que nos permite asignar la ubicación apropiada a cada elemento necesario en este desarrollo. Para lograrlo, se considerarán factores como etiquetas, especificaciones de pantalla y resolución. Además, se diseñarán íconos utilizando una matriz, lo que optimizará la visualización de los detalles y contribuirá a mantener un proceso ordenado en todo momento.
+## 4.2. Information Architecture
+
+La arquitectura de la información para la **Landing Page** y la **Aplicación Web de StudyStay** se basa en decisiones estratégicas que permiten una navegación intuitiva, asegurando que los usuarios puedan encontrar rápidamente la información que buscan. Las propuestas están orientadas a facilitar la adaptación de los usuarios a la funcionalidad de cada producto, organizando el contenido de manera clara y accesible.
+
+### 4.2.1. Organization Systems
+
+En esta sección, el equipo define cómo se organizará el contenido utilizando diferentes sistemas de organización que se adaptan a los distintos grupos de información y tipos de usuarios.
 
 **Segmento Objetivo: Estudiantes que buscan información sobre habitaciones**
 
-- Jerárquica:
-    - Al aplicar los filtros adecuados, los espacios, habitaciones o departamentos elegidos pueden aparecer con el debido orden, es decir, los artículos con mayor coincidencia aparecerán en primer lugar y así sucesivamente. El usuario tendrá la posibilidad de elegir el resultado de su agrado.
-- Secuencial:
-    - Para la creación de una cuenta para el uso de la aplicación, la información mostrada en pantalla deberá seguir una secuencia, en el que se deben respetar los pasos necesarios para que se pueda lograr con el cometido.
-- Matricial:
-    - En la configuración de la cuenta, los usuarios podrán configurar distintos aspectos de la misma de acuerdo a sus preferencias, mostrando los apartados divididos en secciones.
-
-
+- **Jerárquica**: Se utiliza una jerarquía visual en la **Landing Page** para presentar los espacios, habitaciones o departamentos, con los resultados de búsqueda ordenados según relevancia. Los artículos con mayor coincidencia con los filtros aplicados aparecerán primero, permitiendo a los usuarios elegir fácilmente su opción preferida.
+- **Secuencial**: Durante el proceso de creación de cuentas en la **Aplicación Web**, la información se presentará de manera secuencial, guiando a los usuarios paso a paso a través de un flujo lógico hasta completar el registro.
+- **Matricial**: En la **Aplicación Web**, la configuración de la cuenta permite a los usuarios personalizar aspectos de su perfil. Las opciones de configuración se mostrarán en un formato matricial, divididas en secciones para facilitar el acceso y la edición.
 
 **Segmento Objetivo: Arrendadores que buscan alquilar habitaciones**
 
-- Jerárquica:
-    - Cuando se desee publicar artículos organizados por categorías, podrá elegir el orden en el que quiera que se visualice para los estudiantes, por lo que se presentará de forma ordenada.
+- **Jerárquica**: Para los arrendadores, los artículos se pueden organizar por categorías, y se les permitirá elegir el orden en el que quieren que sus publicaciones sean vistas por los estudiantes. Esto asegura que las opciones más relevantes aparezcan de manera prominente.
+- **Secuencial**: Similar a los estudiantes, los arrendadores también seguirán un proceso secuencial para crear una cuenta, asegurando que se respeten los pasos necesarios para una inscripción exitosa.
+- **Matricial**: Los arrendadores pueden configurar distintos aspectos de sus publicaciones y cuentas de forma matricial, permitiendo personalizar su información según sus preferencias.
 
-- Secuencial:
-    - Para la creación de una cuenta para el uso de la aplicación, la información mostrada en pantalla deberá seguir una secuencia, en el que se deben respetar los pasos necesarios para que se pueda lograr con el cometido.
+### 4.2.2. Labeling Systems
 
-- Matricial:
-    - En la configuración de la cuenta, los usuarios podrán configurar distintos aspectos de la misma de acuerdo a sus preferencias, mostrando los apartados divididos en secciones.
+El sistema de etiquetado debe ser simple, directo y claro, evitando cualquier confusión para los visitantes y usuarios. Las etiquetas deben proporcionar una descripción concisa del contenido.
 
-### 4.2.2. Labeling Systems.
-A continuación, se mostrará el sistema de etiquetado que otorgará una descripción breve y clara de la información mostrada en nuestra Landing Page.
-
-Tenemos los siguientes encabezados:
-
-- Home: En esta sección se muestra la sección inicial de la Landing Page, en la que se ofrece la bienvenida a los posibles usuarios, junto a una frase que representa al proyecto.
-- Servicios: En esta sección se describen las características que los usuarios podrán encontrar al hacer uso de nuestra aplicación.
-- Quiénes somos: En esta sección el cliente puede observar información acerca de nuestro equipo de desarrollo y una descripción breve de nuestro objetivo.
-- Testimonios: En esta sección se pueden visualizar las opiniones de los usuarios que probaron el servicio, además de la puntuación que brindaron.
-- Descargar: En esta sección se puede visualizar las opciones de descarga que podrán estar disponibles en un posible futuro al desarrollar una versión para dispositivos móviles.
+- **Home**: Bienvenida a los usuarios con una frase representativa del proyecto.
+- **Servicios**: Descripción de las características y beneficios del servicio para los usuarios.
+- **Quiénes somos**: Información sobre el equipo de desarrollo y la misión del proyecto.
+- **Testimonios**: Opiniones y puntuaciones de los usuarios que han utilizado el servicio.
+- **Descargar**: Opciones de descarga para versiones móviles futuras.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-Estas etiquetas son esenciales para mejorar la visibilidad de la aplicación web en los motores de búsqueda como Google. Las etiquetas SEO incluyen palabras clave relevantes y descripciones concisas para que los motores de búsqueda indexen y clasifiquen el contenido de la aplicación de manera efectiva. Las metaetiquetas proporcionan información adicional sobre la página, como el título y la descripción que se muestran en los resultados de búsqueda.
+Las etiquetas SEO y meta son cruciales para mejorar la visibilidad de la **Landing Page** y la **Aplicación Web** en los motores de búsqueda.
 
-**Para el Landing Page:**
+- **Landing Page**:
+  - **Title**: StudiStay
+  - **Description**: StudiStay - StudiStay Connect Official Landing Page
+  - **Keywords**: apartment, students, rent apartment
+  - **Authors**: StudiStay Connect team
 
-Tittle: StudiStay
-Description: StudiStay -  StudiStay Connect Official Landing Page
-Keywords: apartment, students, rent apartment
-Authors: StudiStay Connect team
+- **Aplicación Web**:
+  - **Title**: StudiStay
+  - **Description**: StudiStay - StudiStay Connect Official Web Page
+  - **Keywords**: apartment, students, rent apartment, low prices, web courses
+  - **Authors**: StudiStay Connect team
 
-**Para la aplicación web:**
+### 4.2.4. Searching Systems
 
-Tittle: StudiStay
-Description: StudiStay -  StudiStay Connect Official Web Page
-Keywords: apartment, students, rent apartment, low prices, web courses
-Authors: StudiStay Connect team
+Los sistemas de búsqueda están diseñados para ayudar a los usuarios a encontrar rápidamente la información que necesitan sin sentirse perdidos.
 
-### 4.2.4. Searching Systems.
-- Landing Page: Los usuarios podrán hacer uso de la barra de navegación ubicada en la parte superior, para poder ubicarse en los distintos apartados en los que está dividido nuestra página, siendo una forma didáctica para interactuar con esta.
+- **Landing Page**: Los usuarios podrán navegar utilizando una barra de navegación en la parte superior de la página, que estará visible en todo momento. Esta barra proporcionará enlaces directos a las secciones más relevantes de la página.
+- **Aplicación Web**: Los estudiantes podrán buscar espacios ideales aplicando filtros como precio, tamaño, y ubicación. Los arrendadores, por otro lado, podrán buscar clientes potenciales usando filtros como fecha y lugar. Los resultados se mostrarán según la relevancia de la búsqueda.
 
-- Aplicación Web: Por parte de los estudiantes, tendrán la opción de realizar búsquedas de espacios ideales para ellos, por medio de aplicar los filtros necesarios tales como precio, tamaño, lugar, etc. Los resultados serán mostrados de acuerdo a la coincidencia con la búsqueda establecida. Por parte de los arrendadores, podrán buscar a los clientes con quienes contactaron para realizar un alquiler, por medio de filtros como fecha, lugar, etc.
+### 4.2.5. Navigation Systems
 
+El sistema de navegación es fundamental para guiar a los usuarios a través del contenido de la **Landing Page** y la **Aplicación Web**, ayudándoles a cumplir sus objetivos de manera efectiva.
 
+- **Landing Page**: Se utilizará una barra de navegación fija en la parte superior para permitir un acceso rápido a cualquier sección de la página. Los botones de acción y enlaces internos facilitarán la navegación fluida y eficiente.
+- **Aplicación Web**: Similar a la **Landing Page**, con opciones adicionales de navegación que varían según el tipo de usuario (estudiante o arrendador). Los filtros y opciones de búsqueda guiadas permitirán una experiencia de usuario personalizada y efectiva.
 
-### 4.2.5. Navigation Systems.
-A continuación, el equipo mostrará los sistemas de navegación con los que contará nuestro servicio para permitir a los usuarios navegar de manera sencilla y eficiente a cualquier sección de información.
-
-En nuestro Landing Page, encontramos la sección de la barra de navegación en la parte superior, la cual nos permite navegar directamente a un apartado dentro de la página. Esta barra de navegación será visible en todo momento, para que el usuario pueda dirigirse a otra sección que desee visualizar. De esta manera, generamos una navegación más fluida y dinámica para el usuario.
-
-En nuestra aplicación web, utilizaremos un proceso similar al descrito, con diversas opciones que variarán de acuerdo al segmento objetivo que esté utilizando el servicio. Estos podrán hacer uso de filtros para poder encontrar de mejor manera la información precisa que necesiten.
 
 
 ## 4.3. Landing Page UI Design.
