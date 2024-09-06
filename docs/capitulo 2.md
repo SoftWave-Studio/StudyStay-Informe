@@ -225,17 +225,22 @@
 
 **Entrevistado 1**
 
-Nombres: 
+Nombres: Andre Marcelo
 
-Apellidos: 
+Apellidos: Valdivieso Sanchez
 
-Edad: 
+Edad: 18
 
-Distrito: 
+Distrito: Chorrillos
 
-Enlace de la entrevista:  
+Enlace de la entrevista:  [Entrevista Andre](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/Eb_12oTnqKxMpndJEoZX_uIBJKGOeyw0EBlGxsppxkv75A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cblsbh)
+
+![img.png](assets/img/Estudiante1.png)
 
 Resumen de la entrevista: 
+
+Andre nos cuenta que es un estudiante que vive bastante alejado de su universidad, nos comenta que se sentiria muy comodo estando en un departamento pequeño o un cuarto con salida directa a la calle especificamente, nos comenta que el hecho de vivir en lugares con habitaciones dentro de casas le puede llegar a parecer incomodo.
+
 **Entrevistado 2**
 
 Nombres:Franco Felix 
@@ -246,10 +251,13 @@ Edad: 22
 
 Distrito: Ancon
 
+Enlace de la entrevista: [Entrevista Franco](https://www.youtube.com/watch?v=7aXvhhLLTL4)
 
-Enlace de la entrevista: [Ver video de YouTube](https://www.youtube.com/watch?v=7aXvhhLLTL4)
 <img src="assets/img/entrevista-Franco.png"/>
-Resumen de la entrevista:Franco Yance, un estudiante de 24 años, menciona que está buscando un lugar para vivir cerca de su universidad en San Miguel, y señala que para él es importante encontrar un sitio con un precio accesible, sin mucho ruido y con buena iluminación para poder estudiar. Ha utilizado aplicaciones de alquiler anteriormente, pero solo para hoteles, y considera interesante una app exclusiva para estudiantes. Recomienda que dicha aplicación ofrezca opciones de pago diversas, como tarjetas y billeteras digitales, un sistema de recomendaciones, y una galería de imágenes de las propiedades. Finalmente, afirma que estaría dispuesto a usar una app de ese tipo.
+
+Resumen de la entrevista:
+
+Franco Yance, un estudiante de 24 años, menciona que está buscando un lugar para vivir cerca de su universidad en San Miguel, y señala que para él es importante encontrar un sitio con un precio accesible, sin mucho ruido y con buena iluminación para poder estudiar. Ha utilizado aplicaciones de alquiler anteriormente, pero solo para hoteles, y considera interesante una app exclusiva para estudiantes. Recomienda que dicha aplicación ofrezca opciones de pago diversas, como tarjetas y billeteras digitales, un sistema de recomendaciones, y una galería de imágenes de las propiedades. Finalmente, afirma que estaría dispuesto a usar una app de ese tipo.
 
 
 
@@ -261,15 +269,17 @@ Apellidos:
 
 Edad:
 
-Distrito:
+Distrito: 
 
-Enlace de la entrevista:
+Enlace de la entrevista: [Entrevista Joseph](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EcKdtnt69FBDvVp3QQEiDX4BN-5pwGuTNCv_P23aRjg-Hw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=J2bi3l)
+
+![img.png](assets/img/Estudiante3.png)
 
 Resumen de la entrevista:
 
 
 
-<span style="font-size: 20px;">**Segmento 2**</span>
+<span style="font-size: 20px;">**Segmento 2: Arrendadores**</span>
 
 **Entrevistado 1**
 
@@ -282,10 +292,12 @@ Edad: 21
 Distrito: Santa Anita
 
 Enlace de la entrevista: [Ver video de YouTube](https://youtu.be/wn3yyVRTOjU)
+
 <img src="assets/img/entrevista-Carlos.png"/>
-Resumen de la entrevista: En la entrevista, Carlos Osvaldo Casemiro Fernández, un joven de 21 años que vive en Santa Anita y trabaja en una inmobiliaria mientras estudia, habla sobre su experiencia en el alquiler de habitaciones para estudiantes. Explica que los lugares que ofrece suelen estar ubicados cerca de instituciones educativas para reducir el tiempo de desplazamiento. Carlos menciona que uno de los principales inconvenientes en el alquiler es la desconfianza hacia los inquilinos y la preocupación sobre la puntualidad en los pagos. También resalta los beneficios de un proceso de alquiler eficiente, como la mejora en la confianza y en el trato con los inquilinos. Considera que una aplicación podría ser muy útil para facilitar el alquiler de habitaciones, sugiriendo que debería incluir herramientas para ubicar propiedades, interactuar con los inquilinos y tener un soporte eficiente.
 
+Resumen de la entrevista: 
 
+En la entrevista, Carlos Osvaldo Casemiro Fernández, un joven de 21 años que vive en Santa Anita y trabaja en una inmobiliaria mientras estudia, habla sobre su experiencia en el alquiler de habitaciones para estudiantes. Explica que los lugares que ofrece suelen estar ubicados cerca de instituciones educativas para reducir el tiempo de desplazamiento. Carlos menciona que uno de los principales inconvenientes en el alquiler es la desconfianza hacia los inquilinos y la preocupación sobre la puntualidad en los pagos. También resalta los beneficios de un proceso de alquiler eficiente, como la mejora en la confianza y en el trato con los inquilinos. Considera que una aplicación podría ser muy útil para facilitar el alquiler de habitaciones, sugiriendo que debería incluir herramientas para ubicar propiedades, interactuar con los inquilinos y tener un soporte eficiente.
 
 **Entrevistado 2**
 
@@ -297,7 +309,9 @@ Edad:
 
 Distrito:
 
-Enlace de la entrevista:
+Enlace de la entrevista: [Entrevista Veronica](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EZnTn9x3qe1FpWkDJHRGrDEB8Y07tnCS1HTnkOc_lhiHQQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=okj13r)
+
+![img.png](assets/img/Arrendador2.png)
 
 Resumen de la entrevista:
 
@@ -312,69 +326,58 @@ Edad:
 
 Distrito:
 
-Enlace de la entrevista:
+Enlace de la entrevista: [Entrevista Sebastian](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EeEieb0h1etBulqf0C27cw4BGOPr90zuhVxtBp44BjGe1A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=U4Epsj)
+
+![img.png](assets/img/Arrendador3.png)
 
 Resumen de la entrevista:
+
+
 ****
 
 ### 2.2.3. Análisis de entrevistas
 
-Este análisis se centra en dos segmentos de usuarios clave: estudiantes universitarios que buscan habitaciones y propietarios interesados en alquilar habitaciones a estudiantes. A través de entrevistas detalladas con representantes de ambos segmentos, se explorarán sus necesidades y preferencias para crear perfiles de usuario y diseñar una aplicación de búsqueda de habitaciones eficaz.
+Este análisis se enfoca en dos grupos clave: estudiantes universitarios en busca de habitaciones y propietarios interesados en alquilar a estudiantes. Mediante entrevistas con representantes de ambos segmentos, se identifican sus necesidades y preferencias, lo que permite crear perfiles de usuario y diseñar una aplicación eficiente para la búsqueda de habitaciones.
 
-**Segmento 1: Estudiantes que buscan información sobre habitaciones**
+**Segmento 1: Estudiantes en busca de habitaciones**
 
-Los estudiantes universitarios en este segmento tienen como prioridades la proximidad a la universidad, comodidades básicas y seguridad al buscar habitación. Ven con buenos ojos una aplicación especializada que simplifique la búsqueda y confían en la información proporcionada por otros usuarios. Estas características son fundamentales para el diseño exitoso de una aplicación de búsqueda de habitaciones.
-
-**Características Objetivas:**
-
-- Proximidad a la Universidad: El 100% de los estudiantes busca alojamiento cercano a la universidad, lo que es un factor crucial en su elección.
-
-- Comodidades Básicas: El 67% de los estudiantes busca comodidades básicas en sus habitaciones, como una cama y un baño privado.
-
-- Dificultades en la Búsqueda: El 100% de los estudiantes menciona enfrentar dificultades en la búsqueda de alojamiento, lo que destaca la necesidad de una solución efectiva.
-
-- Interés en Aplicaciones de Búsqueda: El 67% de los estudiantes muestra interés en utilizar aplicaciones para buscar alojamiento, indicando una disposición hacia la tecnología.
-
-- Ahorro de Tiempo y Dinero: El 67% de los estudiantes enfatiza la importancia de ahorrar tiempo y dinero al buscar alojamiento cerca de la universidad.
-
-- Seguridad: El 100% de los estudiantes valora la seguridad como un factor esencial en su elección de alojamiento.
-
-- Confiabilidad de la Información: El 100% de los estudiantes resalta la importancia de contar con información confiable y reseñas verificadas en la aplicación.
-
-**Características Subjetivas:**
-
-- Personalidad Introvertida/Extrovertida: La aplicación puede adaptar las opciones de comunicación para satisfacer las preferencias individuales de los usuarios.
-
-- Equilibrio entre Costo y Comodidad: La aplicación puede ofrecer herramientas para que los usuarios evalúen y comparen opciones en función de sus preferencias personales de seguridad y costo.
-
-- Valoración de la Confianza: Incorporar sistemas de calificación y reseñas verificadas para fomentar la confianza entre inquilinos y arrendadores.
-
-- Personalización: Utilizar algoritmos de recomendación que consideren las preferencias individuales de los usuarios, como la proximidad a la universidad o las comodidades deseadas.
-
-
-**Segmento 2: Arrendadores que buscan alquilar habitaciones**
-
-En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar habitaciones a estudiantes, identificando características comunes que revelan sus necesidades y motivaciones. Estas características, que incluyen aspectos objetivos y subjetivos, son esenciales para diseñar una aplicación que mejore la experiencia tanto para los arrendadores como para los estudiantes en la búsqueda y oferta de alojamiento estudiantil.
+Los estudiantes universitarios de este grupo priorizan la cercanía a su centro de estudios, las comodidades básicas y la seguridad al buscar alojamiento. Ven con buenos ojos una aplicación que facilite este proceso, confiando en las opiniones de otros usuarios. Estas características son esenciales para el diseño de una plataforma efectiva.
 
 **Características Objetivas:**
 
-- Tipo de Habitación Ofrecida: Los arrendadores buscan ofrecer habitaciones con características específicas, como baño y cama.
-
-- Ubicación Deseada: Algunos arrendadores tienen preferencias de ubicación, priorizando distritos seguros.
-
-- Inconvenientes en la Comunicación: La comunicación efectiva en el proceso de arrendamiento es crucial, y algunos arrendadores enfrentan problemas en esta área.
-
-- Espacios Comunes y Comodidades: Algunos arrendadores pueden ofrecer espacios comunes o comodidades adicionales en la vivienda para atraer a estudiantes en busca de un ambiente completo y conveniente.
+- Proximidad a la universidad: El 100% de los estudiantes prefiere alojamientos cercanos a su universidad, siendo este un factor decisivo.
+- Comodidades básicas: El 67% de los estudiantes busca habitaciones con comodidades como cama y baño privado.
+- Dificultades en la búsqueda: El 100% de los estudiantes experimenta dificultades para encontrar alojamiento, lo que subraya la necesidad de una solución eficiente.
+- Interés en aplicaciones: El 67% está interesado en usar una aplicación para buscar alojamiento.
+- Ahorro de tiempo y dinero: El 67% prioriza el ahorro de tiempo y dinero al buscar alojamiento.
+- Seguridad: El 100% valora la seguridad como un factor crucial.
+- Confiabilidad de la información: El 100% considera esencial contar con reseñas verificadas y datos confiables.
 
 **Características Subjetivas:**
 
-- Experiencia y Motivación: La experiencia previa en negocios en línea y la motivación personal para alquilar habitaciones pueden impulsar la participación y la eficacia en la aplicación.
+- Preferencia por introversión/extroversión: La app debe ajustar las opciones de comunicación según las preferencias de los usuarios.
+- Equilibrio entre costo y comodidad: La aplicación debe ofrecer herramientas para comparar opciones en base a seguridad y costos.
+- Importancia de la confianza: Incluir calificaciones y reseñas verificadas para fortalecer la confianza entre usuarios.
+- Personalización: Algoritmos de recomendación que consideren las preferencias individuales, como cercanía y comodidades.
 
-- Compromiso con la Comunidad Estudiantil: El compromiso de los arrendadores con la mejora de la experiencia de los estudiantes puede fomentar la colaboración en la plataforma.
 
-- Enfoque en la Comunicación: La importancia de una comunicación efectiva con los clientes puede influir en la adopción y el éxito de la aplicación.
+**Segmento 2: Propietarios que alquilan a estudiantes**
 
-- Oferta de Servicios Adicionales: Los arrendadores que ofrecen servicios adicionales pueden utilizar la aplicación para promocionar y gestionar estos servicios de manera eficiente.
+Se realizaron entrevistas con propietarios interesados en alquilar a estudiantes, revelando sus motivaciones y necesidades. Estas características son clave para diseñar una aplicación que beneficie tanto a arrendadores como a estudiantes.
+
+**Características Objetivas:**
+
+- Tipo de habitación: Los propietarios buscan ofrecer habitaciones con comodidades básicas como cama y baño.
+- Ubicación preferida: Algunos priorizan zonas seguras.
+- Problemas de comunicación: Algunos arrendadores enfrentan dificultades al comunicarse con los inquilinos.
+- Espacios comunes: Algunos ofrecen espacios adicionales o comodidades para atraer a los estudiantes.
+
+**Características Subjetivas:**
+
+- Experiencia y motivación: La experiencia en negocios en línea y la motivación para alquilar pueden mejorar la interacción en la plataforma.
+- Compromiso con los estudiantes: El interés de los arrendadores por mejorar la experiencia de los estudiantes puede fomentar una mayor colaboración.
+- Importancia de la comunicación: La comunicación efectiva influye en el éxito de las relaciones dentro de la app.
+- Servicios adicionales: Arrendadores que ofrezcan servicios extra pueden promocionarlos eficientemente a través de la aplicación.
 
 
 ## 2.3. Needfinding
