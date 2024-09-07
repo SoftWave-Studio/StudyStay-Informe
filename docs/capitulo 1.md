@@ -78,7 +78,7 @@ Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias 
        </td>
     </tr>
     <td rowspan="4">
-            <img src="assets/img/nombre archivo" alt="Integrante3" style="margin-bottom: 5px;" width="600"/>
+            <img src="assets/img/Integrante-Ariana.jpg" alt="Integrante3" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -105,7 +105,7 @@ En Ingeniería de Software, nos enfocamos en la programación, la adaptabilidad 
 Tengo conocimiento en Python, C++, SQL y principalmente Javascript y Nodejs de los cuales tengo conocimiento para crear aplicaciones Back-end y APIS. Además tengo habilidades en lo que respecta a la resolución de problemas      </td>
     </tr>
 <td rowspan="4">
-            <img src="assets/img/FabioHorna.jpg" alt="Integrante4" style="margin-bottom: 5px;" width="600"/>
+            <img src="assets/img/Integrante-Fabio.jpg" alt="Integrante4" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -133,12 +133,12 @@ a carrera de Ingeniería de Software en la UPC forma profesionales en el diseño
 Soy sumamente apasionado al análisis de datos y a los videojuegos. Actualmente me encuentro trabajando como analista de datos y poseo conocimientos avanzados de redes neuronales, SQL, y otras herramientas como Python, donde manejo pandas y otras herramientas para la minería de datos. Me considero una buena persona para trabajar en equipo y me gusta ayudar a mis compañeros.        </td>
     </tr>
 <td rowspan="4">
-            <img src="assets/img/nombre archivo" alt="Integrante5" style="margin-bottom: 5px;" width="600"/>
+            <img src="assets/img/Integrante-Tony.jpg" alt="Integrante5" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            nombre, apellido
+            Tony Do Santos Torres Cortez
         </td>
    <tr>
         <td align="left">
@@ -151,13 +151,14 @@ Soy sumamente apasionado al análisis de datos y a los videojuegos. Actualmente 
         <td align="left">
         <b>Descripción de carrera:</b>
         <br>
-descripcion de carrera        </td>
+Soy estudiante de Ingeniería de Software, y mi objetivo es profundizar mis conocimientos en el desarrollo de aplicaciones y soluciones tecnológicas. Me interesa aprender a crear software eficiente y de calidad, aplicando las bases teóricas de la programación en proyectos reales que puedan resolver problemas actuales. A lo largo de mi carrera, busco perfeccionar mis habilidades y estar preparado para enfrentar los desafíos de un campo que está en constante evolución.      </td>
     </tr>
     <tr>
         <td align="left">
         <b>Conocimiento y habilidades:</b>
         <br>
-descripcion de hablidades       </td>
+Tengo conocimientos en lenguajes de programación como C++, Python y Java, lo que me permite adaptarme a diferentes entornos de desarrollo. Mi principal meta es mejorar mis habilidades para tener más oportunidades de trabajo en el futuro. Además, siempre estoy buscando nuevas tecnologías y herramientas que me ayuden a ampliar mi repertorio de habilidades, ya que quiero crecer profesionalmente y estar a la vanguardia en el ámbito del software.
+    </td>
     </tr>
 
 
