@@ -391,7 +391,7 @@ Se realizaron entrevistas con propietarios interesados en alquilar a estudiantes
 
 **Segmento 2: Arrendadores que buscan alquilar habitaciones**
 
-<img src="assets/img/Userpersona2.png"/>
+<img src="assets/img/UserPersona2.png"/>
 
 ### 2.3.2. User Task Matrix
 
