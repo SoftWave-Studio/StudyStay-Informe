@@ -231,22 +231,19 @@ del ABET – EAC - Student Outcome 5.
   <tr>
     <td><b>Criterio específico</b></td>
     <td><b>Acciones realizadas</b></td>
-    <td><b>Conclusiones</b></td>
   </tr>
   <tr>
     <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td> 
+Francisco Hurtado Palomino TB1: Me encargue de realizar el análisis de la competencia, entrevistas y necesidades de los usuarios, ademas de la correccion completa del informe con nuevos detalles.
    </td>
-    <td> 
-    </td>
 
   </tr>
   <tr>
     <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
     <td> 
+Francisco Hurtado Palomino TB1: Utilice mi conocimiento en lenguaje .md para la creacion  del informe.
    </td>
-    <td>
-    </td>
   </tr>
 </table>
 
