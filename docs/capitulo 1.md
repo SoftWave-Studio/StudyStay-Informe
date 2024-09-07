@@ -144,7 +144,7 @@ Soy sumamente apasionado al análisis de datos y a los videojuegos. Actualmente 
         <td align="left">
         <b>Codigo:</b>
         <br>
-        codigo
+        U201917662
         </td>
     </tr>
     <tr>
