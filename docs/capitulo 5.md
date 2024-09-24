@@ -124,85 +124,36 @@ Además, cada feature desarrollado tendrá su propia rama que seguirá la siguie
 
 ## 5.1.3. Source Code Style Guide & Conventions
 
-A continuación, se darán a conocer las convenciones, formatos, estilos y otras propiedades de los lenguajes trabajados en la presente solución: HTML, JavaScript/TypeScript, CSS. Además, por el lado de las pruebas de aceptación, también se darán a conocer dichos temas para el lenguaje Gherkin.
-
-#### HTML
-Se hará uso de la guía “HTML Style Guide and Coding” de la página W3Schools, la cual menciona las convenciones y estándares de este lenguaje de etiquetas. Hemos considerado las siguientes como las más importantes:
-
-- Declarar siempre el tipo documento: Colocar siempre la etiqueta `<!DOCTYPE html>` en la primera línea del código.
-- Utilizar el nombre de las etiquetas y sus atributos en minúscula: Por un tema de estética y orden del código para que este se vea más limpio y sea más fácil de escribir.
-- Cerrar todas las etiquetas: Esto evita futuros problemas o errores de sintaxis.
-- Siempre colocar comillas para los valores de los atributos de las etiquetas: De esta forma los valores son más fáciles de leer y se deben utilizar obligatoriamente si este contiene espacios.
-- Especificar siempre los atributos `alt`, `width` y `height` para las imágenes: Es importante en caso de que la imagen no se pueda mostrar por algún motivo y también ayuda con el tema de la accesibilidad de los usuarios.
-- No omitir la etiqueta `<title>` ni los metadatos `<meta>`: Estas etiquetas son importantes para la optimización de motores de búsqueda (SEO).
-
-#### CSS
-Se siguió la guía “Google HTML/CSS Style Guide” donde se indican las convenciones, reglas y buenas prácticas para este lenguaje. Hemos considerado las siguientes recomendaciones como las más destacadas:
-
-- Nombre de clases: Se recomienda usar nombres generales para las clases, no deben ser específicos, ya que deben comportarse como padres.
-- Usar nombres de clase cortos: Se recomienda utilizar nombres de clase que sean cortos y descriptivos, para transmitir la idea de lo que representa de manera concisa.
-- Usar delimitadores de nombres de clase adecuados: Se debe de separar las palabras en los nombres de clase con solo guiones.
-- Evitar los selectores de ID: No se recomienda implementar este tipo de selectores, por la razón de que estos deben ser únicos en toda la página y en proyectos grandes que tengan muchos componentes es difícil de garantizar esa unicidad, es preferible usar selectores de clase.
-- Usar propiedades abreviadas: Es muy recomendable usar propiedades que soporten ser declarados de forma abreviada (por ejemplo, la propiedad padding, margin, border, etc.) por la razón de que reduce de forma significativa la cantidad de líneas de código, y es más legible para el programador o diseñador.
-
-#### JavaScript
-Se consideró importante seguir una guía de buenas prácticas para un mejor desarrollo del código, para este caso se eligió la guía de la wiki “JavaScript best practices” del World Wide Web (W3C). Lo cual se destaca lo siguiente:
-
-- Usar nombres cortos y fáciles de leer: Es recomendable nombrar adecuadamente las variables, clases, funciones y otros elementos para que sea más sencillo de leer y comprender.
-- Evitar el uso de variables globales (keyword `var`): No se recomienda el uso de este tipo de variables en un proyecto, porque pueden generar muchos errores a medida que el proyecto crece y estas pueden sobrescribirse fácilmente afectando el valor y se pueden declarar otros elementos como funciones con el mismo nombre de la variable y generar errores.
-- Comentar y documentar lo necesario: Se recomienda comentar líneas de código que son complejas de entender a simple vista explicando o dejando mensajes para que otros programadores lo entiendan.
-- Usar notaciones sencillas de entender: JavaScript cuenta con diversas notaciones y operadores para crear o modificar ciertas estructuras de datos como objetos, arrays, selectivas, etc.
-
-#### Gherkin
-Se consideró conveniente usar la guía y convenciones que se mencionan en “Gherkin Conventions for Readable Specifications” para una correcta realización de las pruebas. A continuación, se mencionan los puntos que consideramos más importantes para nuestro trabajo:
-
-- Los bloques “Given-When-Then” deben ser diferenciados: Se recomienda usar una correcta indentación de esos bloques para identificar mejor las secciones de la prueba y también añadiendo la keyword “And” para añadir otra línea en los pasos y otro bloque.
-- Usar tablas para los pasos: Si uno de los pasos requiere de más información es recomendable usar tablas para organizar dicha información y tenga un aspecto más ordenado.
-- Usar comillas simples para los parámetros: Se recomienda esta práctica para una mejor legibilidad de los parámetros en un paso y tener una sintaxis más simple.
-- Separar los escenarios con comentarios: Si se da el caso de tener muchos escenarios en una prueba, es recomendable usar los comentarios como separadores para que visualmente sea más organizado, fácil de leer y distinguir mejor.
-
-#### C#
-Para el desarrollo del código en el lenguaje C#, se ha considerado usar la guía de convenciones de Microsoft Common C# code conventions y se destaca las siguientes convenciones:
-
-- Usar la interpolación de cadenas: para concatenar cadenas cortas, en lugar de usar el operador `+` o `String.Format`.
-- Usar `StringBuilder`: para concatenar cadenas en bucles, especialmente cuando se trabaja con grandes cantidades de texto.
-- Usar `var`: solo cuando el tipo de la variable se pueda inferir de la expresión a la derecha de la asignación.
-- Usar `using`: para simplificar la gestión de recursos que implementan `IDisposable`, como archivos o flujos.
-- Usar los operadores `&&` y `||`: en lugar de `&` y `|` cuando se realizan comparaciones, para evitar errores en tiempo de ejecución por evaluación de cortocircuito.
-- Usar inicializadores de objetos: para simplificar la creación de objetos, asignando valores a las propiedades en la misma línea de declaración.
-- Usar expresiones lambda: para definir delegados anónimos, especialmente para controladores de eventos o métodos de LINQ.
-- Alinear las cláusulas de consulta: debajo de la cláusula `from`, y usar `where` antes que otras cláusulas, para mejorar la claridad y el rendimiento de las consultas LINQ.
-
-#### Vue.js
-Para el framework de Vue.js se consideraron los style guidelines más importantes de la página oficial de Vue, las cuales son las siguientes:
-
-- Usar `v-bind` y `v-on`: para enlazar datos y eventos a los elementos del DOM, en lugar de usar atributos HTML normales. Esto permite una mayor reactividad y flexibilidad.
-- Usar componentes: para dividir la interfaz de usuario en piezas reutilizables y modulares, en lugar de usar un solo archivo HTML. Esto facilita el mantenimiento y la escalabilidad del código.
-- Usar `props` y eventos: para comunicarse entre componentes padre e hijo, en lugar de usar `this.$parent` o mutar props. Esto hace que el flujo de datos sea más claro y predecible.
-- Usar `computed` y `watch`: para definir propiedades y funciones que dependen de otros datos reactivos, en lugar de usar métodos o expresiones complejas. Esto mejora el rendimiento y la legibilidad del código.
-- Usar `v-model`: para crear enlaces bidireccionales entre los datos y los elementos de entrada, en lugar de usar `v-bind` y `v-on` por separado. Esto simplifica la lógica y evita la duplicación de código.
-- Usar `v-if`, `v-else` y `v-show`: para controlar la condición de renderizado de los elementos, en lugar de usar estilos CSS o JavaScript. Esto hace que el código sea más declarativo y fácil de seguir.
-- Usar `v-for`: para renderizar una lista de elementos basada en un array o un objeto, en lugar de usar un bucle `for` o `while`. Esto hace que el código sea más conciso y reactivo.
-- Usar Vuex: para gestionar el estado global de la aplicación, en lugar de usar `this.$root` o un bus de eventos global. Esto ofrece una solución centralizada y estructurada para el manejo del estado.
-
-#### ASP.Net
-Para el desarrollo con ASP.Net se siguió los coding styles y convenciones del repositorio Engineering guidelines de dotnet, y se destacaron los siguientes:
-
-- Usar el sufijo `Async`: en todos los métodos asíncronos, y pasar tokens de cancelación como parámetros opcionales.
-- Seguir los ajustes predeterminados de Visual Studio: para el formato del código, excepto poner los espacios de nombres `System` antes que otros.
-- Usar `var` siempre que sea posible: y usar las palabras clave de C# en lugar de los nombres de tipos .NET.
-- Ser sensible a las diferencias entre sistemas operativos: como los saltos de línea, las variables de entorno y los separadores de directorios.
-- Evitar los métodos de extensión: a menos que sean necesarios para crear cadenas de métodos o mejorar la legibilidad.
-- Escribir comentarios de documentación: para todas las APIs públicas, e indicar si son solo para uso interno.
-- Nombrar y organizar las clases y métodos de prueba: siguiendo un patrón consistente y descriptivo, y separar las etapas Arrange, Act y Assert.
-
-
-
-### Nombrar y organizar las clases y métodos de prueba: 
-- Siguiendo un patrón consistente y descriptivo, y separar las etapas Arrange, Act y Assert.
-
-
-
+<table align="center" border="1" width="100%" style="text-align:left;"> <tbody> <tr> <td colspan="2"><strong>Convenciones y Estilos de Lenguajes</strong></td> </tr> <tr> <td colspan="2"><strong>HTML</strong></td> </tr> <tr> 
+<td>1.</td> <td>Declarar siempre el tipo de documento: `<!DOCTYPE html>` en la primera línea.</td> 
+</tr> <tr> <td>2.</td> <td>Usar minúsculas para nombres de etiquetas y atributos.</td> </tr> <tr> 
+<td>3.</td> <td>Cerrar todas las etiquetas para evitar errores de sintaxis.</td> </tr> <tr> 
+<td>4.</td> <td>Incluir comillas para los valores de atributos.</td> </tr> <tr> <td>5.</td> 
+<td>Especificar atributos `alt`, `width` y `height` en imágenes.</td> </tr> <tr> <td>6.</td> 
+<td>No omitir `<title>` ni metadatos `<meta>` para SEO.</td> </tr> 
+<tr> <td colspan="2"><strong>CSS</strong></td> </tr> <tr> <td>1.</td> <td>Usar nombres de clases generales y descriptivos.</td> </tr> <tr> <td>2.</td> <td>Usar nombres de clase cortos.</td> 
+</tr> <tr> <td>3.</td> <td>Separar palabras en nombres de clase solo con guiones.</td> </tr> 
+<tr> <td>4.</td> <td>Evitar selectores de ID; preferir selectores de clase.</td> </tr> <tr> 
+<td>5.</td> <td>Usar propiedades abreviadas para reducir líneas de código.</td> </tr> <tr> 
+<td colspan="2"><strong>JavaScript</strong></td> </tr> <tr> <td>1.</td> <td>Usar nombres cortos 
+y claros para variables y funciones.</td> </tr> <tr> <td>2.</td> <td>Evitar el uso de variables 
+globales (no usar `var`).</td> </tr> <tr> <td>3.</td> <td>Comentar y documentar líneas de código
+complejas.</td> </tr> <tr> <td>4.</td> <td>Usar notaciones sencillas y comprensibles.</td> 
+</tr> <tr> <td colspan="2"><strong>Gherkin</strong></td> </tr> <tr> <td>1.</td> <td>Diferenciar 
+bloques “Given-When-Then” con buena indentación.</td> </tr> <tr> <td>2.</td> <td>Usar tablas para 
+pasos que requieran más información.</td> </tr> <tr> <td>3.</td> <td>Usar comillas simples para 
+parámetros.</td> </tr> <tr> <td>4.</td> <td>Separar escenarios con comentarios para mayor claridad.</td> 
+</tr> <tr> <td colspan="2"><strong>C#</strong></td> </tr> <tr> <td>1.</td> <td>Usar interpolación de 
+cadenas para concatenaciones cortas.</td> </tr> <tr> <td>2.</td> <td>Usar `StringBuilder` en bucles para grandes cantidades 
+de texto.</td> </tr> <tr> <td>3.</td> <td>Usar `var` cuando 
+el tipo pueda inferirse.</td> </tr> <tr> <td>4.</td> <td>Usar `using` para gestionar recursos `IDisposable`.</td> </tr> <tr> <td>5.</td> 
+<td>Usar `&&` y `||` para evitar errores de evaluación.</td> </tr> <tr> <td>6.</td> <td>Usar inicializadores de objetos para simplificar la creación.</td> </tr> <tr> <td>7.</td> <td>Usar expresiones lambda para definir delegados anónimos.</td> </tr> <tr> <td>8.</td>
+<td>Alinear cláusulas de consulta en LINQ para mejorar claridad.</td> </tr> <tr> <td colspan="2"><strong>Vue.js</strong></td> </tr> <tr> 
+<td>1.</td> <td>Usar `v-bind` y `v-on` para enlazar datos y eventos.</td> </tr> <tr> <td>2.</td> <td>Dividir la interfaz en componentes reutilizables.</td> </tr> <tr> <td>3.</td> <td>Usar `props` y eventos para la comunicación entre componentes.</td> </tr> 
+<tr> <td>4.</td> <td>Usar `computed` y `watch` para propiedades dependientes.</td> </tr> <tr> <td>5.</td> 
+<td>Usar `v-model` para enlaces bidireccionales.</td> </tr> <tr> <td>6.</td> <td>Usar `v-if`, `v-else` y `v-show` para el renderizado condicional.</td> </tr> <tr> <td>7.</td> <td>Usar `v-for` para renderizar listas.</td> </tr> <tr> <td>8.</td> <td>Usar Vuex para gestionar el estado global de la aplicación.</td> </tr> <tr> <td colspan="2"><strong>ASP.Net</strong></td> </tr> <tr> <td>1.</td> <td>Usar el sufijo `Async` en métodos asíncronos.</td> </tr> <tr> <td>2.</td> 
+<td>Seguir los ajustes predeterminados de Visual Studio.</td> </tr> <tr> <td>3.</td> <td>Usar `var` siempre que sea posible.</td> </tr> <tr> <td>4.</td> <td>Ser sensible a diferencias entre sistemas operativos.</td> </tr> <tr> <td>5.</td> <td>Evitar métodos de extensión innecesarios.</td> </tr> <tr> <td>6.</td> <td>Escribir comentarios de documentación para APIs públicas.</td> </tr> <tr> <td>7.</td> 
+<td>Nombrar y organizar clases y métodos de prueba de forma consistente.</td>
 ## 5.1.4. Software Deployment Configuration.
 
 A continuación, se dará a conocer el proceso del despliegue del las aplicaciones para que estas puedan ser visualizadas por el público y todo internet.
@@ -238,36 +189,31 @@ Link del APIRestful desplegado: https://studystay-backend.onrender.com/docs
 
 ## 5.2.1. Sprint Backlogs.
 
-<table align="center"  border="1" width="70%" style="text-align:center;">
-    <tbody >
+<table align="center" border="1" width="70%" style="text-align:center;">
+    <tbody>
         <tr>
-          <td style=";">Sprint#</td>
-           <td colspan="8" "text-align:center">Sprint 1</td>
+            <td style="">Sprint#</td>
+            <td colspan="8" style="text-align:center">Sprint 1</td>
         </tr>
-          <tr>
-            <td style=";"colspan="2">User Story</td>
-           <td colspan="6" "text-align:center">Work-Item / Task</td>
+        <tr>
+            <td style="" colspan="2">User Story</td>
+            <td colspan="6" style="text-align:center">Work-Item / Task</td>
         </tr>
         <tr>
             <td>ID</td>
-             <td style="text-align:center;">Title</td>
+            <td style="text-align:center;">Title</td>
             <td style="text-align:center;">ID</td>
-             <td style="text-align:center;">Title</td>
+            <td style="text-align:center;">Title</td>
             <td style="text-align:center;">Description</td>
-             <td style="text-align:center;">Estimation(hours)</td>
+            <td style="text-align:center;">Estimation (hours)</td>
             <td style="text-align:center;">Assigned To</td>
-            <td style="text-align:center;">Status
-(To-do /
-InProcess /
-ToReview /
-Done)
-</td>
+            <td style="text-align:center;">Status<br>(To-do / InProcess / ToReview / Done)</td>
         </tr>
         <tr>
             <td>SS01</td>
             <td>Apartado del Header</td>
             <td>S01</td>
-            <td>Header responsivos (Desarrollado en HTML y CSS).</td>
+            <td>Header responsivo</td>
             <td>Desarrollo e implementación de los estilos que corresponden al encabezado (Header) de manera responsive.</td>
             <td>3</td>
             <td>Luis Alejo</td>
@@ -277,32 +223,28 @@ Done)
             <td>SS02</td>
             <td>Apartado del Footer</td>
             <td>S02</td>
-            <td>Footer responsivos (Desarrollado en HTML y CSS).</td>
+            <td>Footer responsivo</td>
             <td>Desarrollo e implementación de los estilos que corresponden al pie de página (Footer) de manera responsive.</td>
             <td>2</td>
             <td>Fabio Horna</td>
             <td>Done</td>
         </tr>
-         <tr>
+        <tr>
             <td>SS03</td>
             <td>Sección Hero</td>
             <td>S03</td>
-            <td>(Desarrollado en HTML y CSS) Desarrollo e implementación de los estilos que corresponden a la sección Hero de manera responsive.</td>
-            <td>Desarrollo e implementación de los estilos que corresponden a la sección Hero de manera responsive.
-
-</td>
+            <td>Sección Hero responsiva</td>
+            <td>Desarrollo e implementación de los estilos que corresponden a la sección Hero de manera responsive.</td>
             <td>3</td>
             <td>Francisco Hurtado</td>
             <td>Done</td>
         </tr>
-            <tr>
+        <tr>
             <td>SS04</td>
             <td>Barra de Navegación</td>
             <td>S04</td>
-            <td>Apartado “Hero” (Desarrollado en HTML y CSS) Desarrollo e implementación de los estilos que corresponden a la Barra de Navegación. Debe ser responsive.</td>
-            <td>Desarrollo e implementación de los estilos que corresponden a la Barra de Navegación.
-Debe ser responsive.
-</td>
+            <td>Barra de Navegación responsiva</td>
+            <td>Desarrollo e implementación de los estilos que corresponden a la Barra de Navegación de manera responsive.</td>
             <td>2</td>
             <td>Francisco Hurtado</td>
             <td>Done</td>
@@ -311,10 +253,8 @@ Debe ser responsive.
             <td>SS05</td>
             <td>Testimonials</td>
             <td>S05</td>
-            <td>Sección “Testimonios” (Desarrollado en HTML y CSS) Desarrollo e implementación de los estilos que corresponden a los testimonios de manera responsive.</td>
-            <td>Desarrollo e implementación de los estilos que corresponden a los testimonios de manera responsive.
-
-</td>
+            <td>Sección “Testimonios” responsiva</td>
+            <td>Desarrollo e implementación de los estilos que corresponden a los testimonios de manera responsive.</td>
             <td>3</td>
             <td>Fabio Horna</td>
             <td>Done</td>
@@ -323,7 +263,7 @@ Debe ser responsive.
             <td>SS06</td>
             <td>Sección Sobre Nosotros</td>
             <td>S06</td>
-            <td>Información del equipo (Desarrollado en HTML y CSS) Desarrollo e implementación de los estilos que corresponden a la información del equipo de manera responsive.</td>
+            <td>Información del equipo responsiva</td>
             <td>Desarrollo e implementación de los estilos que corresponden a la información del equipo de manera responsive.</td>
             <td>3</td>
             <td>Luis Alejo</td>
@@ -333,9 +273,8 @@ Debe ser responsive.
             <td>SS07</td>
             <td>Sección Services</td>
             <td>S07</td>
-            <td>Sección Services (Desarrollado en HTML y CSS) Desarrollo e implementación de los estilos que corresponden a los servicios de la página de manera responsive.</td>
-            <td>
-Desarrollo e implementación de los estilos que corresponden a los servicios de la página de manera responsive.</td>
+            <td>Sección Services responsiva</td>
+            <td>Desarrollo e implementación de los estilos que corresponden a los servicios de la página de manera responsive.</td>
             <td>3</td>
             <td>Tony Torres</td>
             <td>Done</td>
@@ -344,8 +283,8 @@ Desarrollo e implementación de los estilos que corresponden a los servicios de 
             <td>SS08</td>
             <td>Interfaz Responsive</td>
             <td>S08</td>
-            <td>Desarrollo responsive de la página (Desarrollado en HTML y CSS) Desarrollo e implementación de un estilo Responsive en toda la página.</td>
-            <td>Desarrollo e implementación de un estilo Responsive en toda la página</td>
+            <td>Desarrollo de interfaz responsiva</td>
+            <td>Desarrollo e implementación de un estilo responsive en toda la página.</td>
             <td>3</td>
             <td>Ariana Huapaya</td>
             <td>Done</td>
