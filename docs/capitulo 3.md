@@ -601,33 +601,35 @@
     </tbody>
 </table>
 
-## 3.3. Impact Mapping
+## 3.3. Product Backlog
+
+| #Orden | User Story Id | Titulo | Descripcion | Story Points(1 / 2 / 3 / 5 / 8)| Prioridad |
+|:--------|:------|:----|:-----|:-----|:----------|
+|01|HU01|Registrarme|Como estudiante o arrendador quiero registrarme para hacer uso de la aplicación.|3| Alta      |
+|02|HU02|Iniciar sesión|Como estudiante o arrendador quiero iniciar sesión para acceder a mi cuenta y utilizar la aplicación.|2| Alta      |
+|03|HU03|Recuperar contraseña|Como estudiante o arrendador quiero recuperar mi contraseña para acceder a mi cuenta y utilizar la aplicación.|3| Alta      |
+|04|HU04|Salir o borrar la cuenta|Como estudiante o arrendador quiero salir o borrar mi cuenta para garantizar la protección y privacidad de mis datos.|2| Media     |
+|05|HU05|Configurar las notificaciones|Como estudiante o arrendador quiero configurar mis notificaciones para que mi barra de notificaciones no se llene.|5| Media     |
+|06|HU06|Cambiar mi contraseña|Como estudiante o arrendador quiero cambiar mi contraseña para mantener mi cuenta segura.|3| Alta      |
+|07|HU07|Editar mi perfil|Como estudiante o arrendador quiero modificar mi foto e información de perfil para generar confianza con los demás usuarios.|5| Media     |
+|08|HU08|Ayuda y consejos|Como estudiante o arrendador quiero resolver sus dudas y saber cómo funciona la app para poder darle un buen uso.|3| Media     |
+|09|HU09|Crear publicación|Como arrendador quiero poder crear una o más publicaciones para poder encontrar inquilinos interesados en mi(s) habitación(es).|8| Alta      |
+|10|HU10|Visualizar publicación|Como arrendador quiero ver las publicaciones que he realizado para poder gestionar mis habitaciones de manera eficiente.|3| Media     |
+|11|HU11|Editar una publicación|Como arrendador quiero modificar o editar una publicación para corregir uno o varios errores o actualizar la información de la publicación.|3| Media     |
+|12|HU12|Borrar una publicación|Como arrendador quiero eliminar una publicación para informar que esa habitación ya no está disponible.|3| Media     |
+|13|HU13|Visualización de apartados|Como estudiante quiero visualizar todas las secciones de la aplicación para darle el mejor uso posible|5| Media     |
+|14|HU14|Filtro de búsqueda|Como estudiante quiero usar filtros de búsqueda en la app para poder encontrar las habitaciones que me interesan|8| Alta      |
+|15|HU15|Colocar reseña y puntuar habitación|Como estudiante quiero escribir una reseña y puntuar a la habitación para que otros estudiantes sepan si la habitación vale la pena o no.|5| Media     |
+|16|HU16|Editar o borrar reseña|Como estudiante quiero editar o borrar una de mis reseñas para corregir un error o eliminar la reseña.|2| Baja      |
+|17|HU17|Reservar una habitación|Como estudiante quiero reservar una habitación para hospedarme un cierto tiempo cerca de mi universidad o instituto.|5| Alta      |
+|18|HU18|Añadir método de pago|Como estudiante quiero añadir algún método de pago para efectuar el pago de mi reserva.|5| Media     |
+|19|HU19|Modificar método de pago|Como estudiante quiero editar un método de pago para actualizar o cambiar el método de pago|3| Media     |
+|20|HU20|Eliminar método de pago|Como estudiante quiero borrar uno de mis métodos de pago para eliminarlo de mi lista de métodos de pago.|3| Baja      |
+
+
+
+## 3.4. Impact Mapping
 
 <div align=center>
     <img src="assets/img/impactmapping.png" alt="Impact Mapping"  width="90%"/>
 </div>
-
-## 3.4. Product Backlog
-
-| #Orden | User Story Id | Titulo | Descripcion | Story Points(1 / 2 / 3 / 5 / 8)|
-|:--------|:------|:----|:-----|:-----|
-|01|HU01|Registrarme|Como estudiante o arrendador quiero registrarme para hacer uso de la aplicación.|3|
-|02|HU02|Iniciar sesión|Como estudiante o arrendador quiero iniciar sesión para acceder a mi cuenta y utilizar la aplicación.|2|
-|03|HU03|Recuperar contraseña|Como estudiante o arrendador quiero recuperar mi contraseña para acceder a mi cuenta y utilizar la aplicación.|3|
-|04|HU04|Salir o borrar la cuenta|Como estudiante o arrendador quiero salir o borrar mi cuenta para garantizar la protección y privacidad de mis datos.|2|
-|05|HU05|Configurar las notificaciones|Como estudiante o arrendador quiero configurar mis notificaciones para que mi barra de notificaciones no se llene.|5|
-|06|HU06|Cambiar mi contraseña|Como estudiante o arrendador quiero cambiar mi contraseña para mantener mi cuenta segura.|3|
-|07|HU07|Editar mi perfil|Como estudiante o arrendador quiero modificar mi foto e información de perfil para generar confianza con los demás usuarios.|5|
-|08|HU08|Ayuda y consejos|Como estudiante o arrendador quiero resolver sus dudas y saber cómo funciona la app para poder darle un buen uso.|3|
-|09|HU09|Crear publicación|Como arrendador quiero poder crear una o más publicaciones para poder encontrar inquilinos interesados en mi(s) habitación(es).|8|
-|10|HU10|Visualizar publicación|Como arrendador quiero ver las publicaciones que he realizado para poder gestionar mis habitaciones de manera eficiente.|3|
-|11|HU11|Editar una publicación|Como arrendador quiero modificar o editar una publicación para corregir uno o varios errores o actualizar la información de la publicación.|3|
-|12|HU12|Borrar una publicación|Como arrendador quiero eliminar una publicación para informar que esa habitación ya no está disponible.|3|
-|13|HU13|Visualización de apartados|Como estudiante quiero visualizar todas las secciones de la aplicación para darle el mejor uso posible|5|
-|14|HU14|Filtro de búsqueda|Como estudiante quiero usar filtros de búsqueda en la app para poder encontrar las habitaciones que me interesan|8|
-|15|HU15|Colocar reseña y puntuar habitación|Como estudiante quiero escribir una reseña y puntuar a la habitación para que otros estudiantes sepan si la habitación vale la pena o no.|5|
-|16|HU16|Editar o borrar reseña|Como estudiante quiero editar o borrar una de mis reseñas para corregir un error o eliminar la reseña.|2|
-|17|HU17|Reservar una habitación|Como estudiante quiero reservar una habitación para hospedarme un cierto tiempo cerca de mi universidad o instituto.|5|
-|18|HU18|Añadir método de pago|Como estudiante quiero añadir algún método de pago para efectuar el pago de mi reserva.|5|
-|19|HU19|Modificar método de pago|Como estudiante quiero editar un método de pago para actualizar o cambiar el método de pago|3|
-|20|HU20|Eliminar método de pago|Como estudiante quiero borrar uno de mis métodos de pago para eliminarlo de mi lista de métodos de pago.|3|
