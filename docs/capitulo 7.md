@@ -103,3 +103,30 @@ De igual manera que utilizamos prácticas para la integración continua, nuestro
 
 ![img.png](assets/img/stages.png)
 
+## 7.3. Continuous deployment
+
+### 7.3.1. Tools and Practices.
+
+El despliegue continuo consta de tres fases:
+
+**Preparación**
+
+En esta fase, se recopila todo el código desarrollado junto con los archivos necesarios para que la aplicación funcione como una única versión. Hemos consolidado todo el código en la rama principal, main.
+
+**Pruebas**
+
+Durante la fase de pruebas, ejecutamos los Unit Tests para verificar que la solución funciona correctamente, lo que nos permite identificar y corregir cualquier error.
+
+**Despliegue**
+
+Después de probar la versión final del proyecto, se desarrolló un conjunto de scripts para actualizar la base de datos y empaquetar el proyecto con el fin de desplegar la aplicación. Siguiendo las buenas prácticas adoptadas por nuestro equipo, también se implementaron las siguientes recomendaciones para el despliegue continuo:
+
+- Utilizamos los mismos scripts para todos los entornos.
+- Se eliminaron la mayoría de los pasos manuales.
+- Verificamos que los objetivos de prueba no fallen durante las etapas de construcción (build stages).
+- Se crearon comandos específicos **para cada fase del pipeline**
+
+
+### 7.3.2. Production Deployment Pipeline Components.
+
+![img_1.png](assets/img/pipeline.png)
