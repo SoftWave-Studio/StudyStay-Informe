@@ -233,7 +233,7 @@ Edad: 18
 
 Distrito: Chorrillos
 
-Enlace de la entrevista:  [Entrevista Andre](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/Eb_12oTnqKxMpndJEoZX_uIBJKGOeyw0EBlGxsppxkv75A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cblsbh)
+Enlace de la entrevista: (00:00-05:19) [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/ERMMRDKk9T9Kifrmsmi-X6sBhi2CEfwAsSxSR85_uWTz4A?e=Re5oxg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ![img.png](assets/img/Estudiante1.png)
 
@@ -251,7 +251,7 @@ Edad: 22
 
 Distrito: Ancon
 
-Enlace de la entrevista: [Entrevista Franco](https://www.youtube.com/watch?v=7aXvhhLLTL4)
+Enlace de la entrevista: (05:20-08:30) [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/ERMMRDKk9T9Kifrmsmi-X6sBhi2CEfwAsSxSR85_uWTz4A?e=Re5oxg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 <img src="assets/img/entrevista-Franco.png"/>
 
@@ -271,7 +271,7 @@ Edad: 24 años
 
 Distrito: San Martin de Porres
 
-Enlace de la entrevista: [Entrevista Joseph](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EcKdtnt69FBDvVp3QQEiDX4BN-5pwGuTNCv_P23aRjg-Hw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=J2bi3l)
+Enlace de la entrevista: (08:31-11:20) [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/ERMMRDKk9T9Kifrmsmi-X6sBhi2CEfwAsSxSR85_uWTz4A?e=Re5oxg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ![img.png](assets/img/Estudiante3.png)
 
@@ -291,7 +291,7 @@ Edad: 21
 
 Distrito: Santa Anita
 
-Enlace de la entrevista: [Ver video de YouTube](https://youtu.be/wn3yyVRTOjU)
+Enlace de la entrevista: (11:21-15:20) [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/ERMMRDKk9T9Kifrmsmi-X6sBhi2CEfwAsSxSR85_uWTz4A?e=Re5oxg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 <img src="assets/img/entrevista-Carlos.png"/>
 
@@ -309,7 +309,7 @@ Edad: 43
 
 Distrito: Callao
 
-Enlace de la entrevista: [Entrevista Veronica](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EZnTn9x3qe1FpWkDJHRGrDEB8Y07tnCS1HTnkOc_lhiHQQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=okj13r)
+Enlace de la entrevista: (15:21-21:15) [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/ERMMRDKk9T9Kifrmsmi-X6sBhi2CEfwAsSxSR85_uWTz4A?e=Re5oxg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ![img.png](assets/img/Arrendador2.png)
 
@@ -327,7 +327,7 @@ Edad: 22 años
 
 Distrito: Los Olivos
 
-Enlace de la entrevista: [Entrevista Sebastian](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EeEieb0h1etBulqf0C27cw4BGOPr90zuhVxtBp44BjGe1A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=U4Epsj)
+Enlace de la entrevista: (21:15-24:17) [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/ERMMRDKk9T9Kifrmsmi-X6sBhi2CEfwAsSxSR85_uWTz4A?e=Re5oxg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ![img.png](assets/img/Arrendador3.png)
 

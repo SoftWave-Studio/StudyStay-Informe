@@ -178,39 +178,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
-<table>
-  <tr>
-    <td><b>Criterio específico</b></td>
-    <td><b>Acciones realizadas</b></td>
-  </tr>
-  <tr>
-    <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
-    <td> 
-Francisco Hurtado Palomino TB1: Me encargue de realizar el análisis de la competencia, entrevistas y necesidades de los usuarios, ademas de la correccion completa del informe con nuevos detalles.
-                <br>
-Luis Aejo Cardenas TB1: Me encargue del desarrolo de la App Web y APIResful, usando python, FastAPI, javascript, vue y html.
-<br>
-Tony Torres Cortez TB1: Me encargue realizar y resumir entrevista, ademas de redactar el capitulo V y la creacion del repositorio de acceptance tests.
-<br>
-Ariana Huapaya TB1: Me encargue realizar  Web Applications UX/UI Design., ademas del Software Object-Oriented Design y el Database Design. <br>
-Fabio Horna  TB1:Realize los mock ups, y el detalle de la solucion, diseño e implementacion de nuestra landing page tratamndo de mantener y respetar lo establñecido por normnas y cirterios de creacion de software y pautas de diseño al usuario.
-                <br>
-   </td>
-
-  </tr>
-  <tr>
-    <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
-    <td> 
-Francisco Hurtado Palomino TB1: Utilice mi conocimiento en lenguaje .md para la creacion  del informe.
-        <br>
-Luis Aejo Cardenas TB1: Utilice Vercel para el deploy del FrontEnd, Clever Cloud para la base de datos y Render para el APIRestful
-<br>
-Tony Torres Cortez TB1: Utilice mi conocimiento para redacciones y rectificaciones en lenguaje html y .md.
-        <br>
-Ariana Huapaya Buitron TB1: He aplicado mis habilidades en el diseño de UX/UI, diseño orientado a objetos, y diseño de bases de datos en el sector de aplicaciones web educativas, ayudando a crear soluciones que mejoran la experiencia del usuario y optimizan la gestión de información en plataformas digitales. <br>
-Fabio Horna  TB1: Utilice diferente herramientas para la implementacion de la aplciacion relacionando problemas con caracteristicas funcionales para luego implementarlas
-   </td>
-  </tr>
-</table>
-
-<br><br>
+| **Criterio específico**                                                                                                                              | **Acciones realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |  <br>Francisco Hurtado Palomino TB1: Me encargue de realizar el análisis de la competencia, entrevistas y necesidades de los usuarios, ademas de la correccion completa del informe con nuevos detalles.<br>                <br>Luis Aejo Cardenas TB1: Me encargue del desarrolo de la App Web y APIResful, usando python, FastAPI, javascript, vue y html.<br><br>Tony Torres Cortez TB1: Me encargue realizar y resumir entrevista, ademas de redactar el capitulo V y la creacion del repositorio de acceptance tests.<br><br>Ariana Huapaya TB1: Me encargue realizar  Web Applications UX/UI Design., ademas del Software Object-Oriented Design y el Database Design. <br>Fabio Horna  TB1:Realize los mock ups, y el detalle de la solucion, diseño e implementacion de nuestra landing page tratamndo de mantener y respetar lo establñecido por normnas y cirterios de creacion de software y pautas de diseño al usuario.<br>                <br>    |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             |  <br>Francisco Hurtado Palomino TB1: Utilice mi conocimiento en lenguaje .md para la creacion  del informe.<br>        <br>Luis Aejo Cardenas TB1: Utilice Vercel para el deploy del FrontEnd, Clever Cloud para la base de datos y Render para el APIRestful<br><br>Tony Torres Cortez TB1: Utilice mi conocimiento para redacciones y rectificaciones en lenguaje html y .md.<br>        <br>Ariana Huapaya Buitron TB1: He aplicado mis habilidades en el diseño de UX/UI, diseño orientado a objetos, y diseño de bases de datos en el sector de aplicaciones web educativas, ayudando a crear soluciones que mejoran la experiencia del usuario y optimizan la gestión de información en plataformas digitales. <br>Fabio Horna  TB1: Utilice diferente herramientas para la implementacion de la aplciacion relacionando problemas con caracteristicas funcionales para luego implementarlas<br>                                                          |
