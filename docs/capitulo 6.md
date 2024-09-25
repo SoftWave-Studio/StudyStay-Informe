@@ -5,9 +5,9 @@
 ### 6.1.1. Core Entities Unit Tests
 En esta fase de pruebas, se validan las entidades principales del sistema, como `Post`, `Reservation` y `User`. Se trata de pruebas unitarias que verifican que los componentes más pequeños de la aplicación funcionen de manera correcta y aislada. 
 
-![Core Entities Unit Tests 1](../assets/core-entities-unit-tests1.png)
-![Core Entities Unit Tests 2](../assets/core-entities-unit-tests2.png)
-![Core Entities Unit Tests 3](../assets/core-entities-unit-tests3.png)
+![Core Entities Unit Tests 1](assets/img/core-entities-unit-tests1.png)
+![Core Entities Unit Tests 2](assets/img/core-entities-unit-tests2.png)
+![Core Entities Unit Tests 3](assets/img/core-entities-unit-tests3.png)
 
 
 
@@ -15,9 +15,9 @@ En esta fase de pruebas, se validan las entidades principales del sistema, como 
 
 ### 6.1.2. Core Integration Tests
 Las pruebas de integración se centran en verificar que los diferentes módulos o componentes de la aplicación interactúen correctamente entre ellos. Para estas pruebas, simulamos flujos completos, como la creación de posts o reservas, asegurándonos de que las entidades trabajen de forma correcta al unísono.
-![Core Integration Tests 1](../assets/core-integration-tests1.png)
-![Core Integration Tests 2](../assets/core-integration-tests2.png)
-![Core Integration Tests 3](../assets/core-integration-tests3.png)
+![Core Integration Tests 1](assets/img/core-integration-tests1.png)
+![Core Integration Tests 2](assets/img/core-integration-tests2.png)
+![Core Integration Tests 3](assets/img/core-integration-tests3.png)
 
 
 
@@ -38,7 +38,7 @@ Feature: Crear un nuevo post
     And el usuario guarda el post
     Then el nuevo post debe aparecer en la lista de publicaciones
 
-![Core Behavior-Driven Development 1](../assets/core-behaivor-driven-development1.png)
+![Core Behavior-Driven Development 1](assets/img/core-behaivor-driven-development1.png)
 
 
 Feature: Crear una nueva reserva
@@ -51,16 +51,16 @@ Feature: Crear una nueva reserva
     Then la reserva debe ser creada correctamente
     And el mensaje de éxito debe aparecer
 
-![Core Behavior-Driven Development 2](../assets/core-behaivor-driven-development2.png)
+![Core Behavior-Driven Development 2](assets/img/core-behaivor-driven-development2.png)
 
 
 
 ### 6.1.4. Core System Tests
 Las pruebas del sistema verifican el comportamiento del sistema en su conjunto, incluyendo todas las partes integradas (frontend, backend, base de datos). Estas pruebas simulan interacciones de usuario reales y aseguran que todo el flujo del sistema funcione sin problemas, desde la capa de presentación hasta la base de datos. 
 
-![Core System Tests 1](../assets/core-system-tests1.png)
-![Core System Tests 2](../assets/core-system-tests2.png)
-![Core System Tests 3](../assets/core-system-tests3.png)
+![Core System Tests 1](assets/img/core-system-tests1.png)
+![Core System Tests 2](assets/img/core-system-tests2.png)
+![Core System Tests 3](assets/img/core-system-tests3.png)
 
 
 
