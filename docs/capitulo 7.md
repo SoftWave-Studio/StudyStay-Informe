@@ -82,14 +82,24 @@ A continuación las evidencias:
 
 ## 7.2. Continuous Delivery
 
-
 ### 7.2.1. Tools and Practices.
+
+En el caso de la entrega continua, existen diversas herramientas que podríamos utilizar, tales como:
+
+![img.png](assets/img/toolandpractices.png)
+
+De igual manera que utilizamos prácticas para la integración continua, nuestro equipo también adoptará las mejores prácticas recomendadas para una correcta implementación de la entrega continua. Estas prácticas están enfocadas en la automatización de varias etapas del proyecto, incluyendo:
+
+- Automatización de cambios en las bases de datos mediante scripts.
+
+- Pruebas automatizadas.
+
+- Despliegues automatizados.
+
+- Versionado de todas las configuraciones.
+
 
 ### 7.2.2. Stages Deployment Pipeline Components.
 
-## 7.3. Continuous deployment
-
-### 7.3.1. Tools and Practices.
-
-### 7.3.2. Production Deployment Pipeline Components.
+![img.png](assets/img/stages.png)
 
