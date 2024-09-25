@@ -61,6 +61,14 @@ A continuación las evidencias:
 
 
 
+
+![HU-12](https://github.com/user-attachments/assets/976b5358-1289-4bde-8254-1996f3fe9442)
+![HU-12](https://github.com/user-attachments/assets/e150dc9e-0f21-430d-bc9b-ff831058db00)
+![HU-12](https://github.com/user-attachments/assets/9130a95c-bf10-4827-ae00-7221bfc3ab5a)
+![HU-12](https://github.com/user-attachments/assets/19b57f23-6ec9-473a-92c5-bd8c733fe47a)
+
+
+
 ![HU-13](https://github.com/user-attachments/assets/dc973c87-8a20-4a07-bc3f-94eb63fffe9c)
 ![HU-13](https://github.com/user-attachments/assets/bc2e06fc-eb33-4640-86a3-305fef1b2594)
 ![HU-13](https://github.com/user-attachments/assets/b8f854c0-7a41-4be3-bfde-e49e1db5f45c)
