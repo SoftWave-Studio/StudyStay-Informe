@@ -50,12 +50,12 @@
 
 # Registro de Versiones del Informe
 
-| Versión |   Fecha    |              Autor               | Descripción de modificación | 
-|:-------:|:----------:|:--------------------------------:|:----------------------------| 
-|   TB1   | 03/09/2024 | Todos los integrantes del equipo |                             |
-|   TP1   |     -      | Todos los integrantes del equipo |                             |
-|   TB2   |     -      | Todos los integrantes del equipo |                             |
-|   TF1   |     -      | Todos los integrantes del equipo |                             |
+| Versión |   Fecha    |              Autor               | Descripción de modificación                                                                                         | 
+|:-------:|:----------:|:--------------------------------:|:--------------------------------------------------------------------------------------------------------------------| 
+|   TB1   | 03/09/2024 | Todos los integrantes del equipo | Se presento una primera version de nuestra web aplication, agregando todo el estudio de segmento objetivo.          |
+|   TP1   | 22/09/2024 | Todos los integrantes del equipo | Se realizaron las correciones marcadas en la entrega anterior, ademas se añadiero nuevos capitulos en esta entrega. |
+|   TB2   |     -      | Todos los integrantes del equipo |                                                                                                                     |
+|   TF1   |     -      | Todos los integrantes del equipo |                                                                                                                     |
 
 
 <br><br>
