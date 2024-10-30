@@ -130,3 +130,25 @@ Después de probar la versión final del proyecto, se desarrolló un conjunto de
 ### 7.3.2. Production Deployment Pipeline Components.
 
 ![img_1.png](assets/img/pipeline.png)
+
+## 7.4. Continuous Monitoring
+### 7.4.1. Tools and Practices
+
+Durante el desarrollo de nuestra aplicación web, hemos utilizado distintas herramientas y buenas prácticas de desarrollo (DevOps y Continuous Monitoring) para asegurar que el producto final sea de la más alta calidad posible.
+Entornos de desarrollo integrados (IDE): Se utilizaron JetBrains WebStorm e IntelliJ IDEA Ultimate para el desarrollo del frontend y backend respectivamente, principalmente por la facilidad para crear, configurar y colaborar en proyectos.
+Control de Versiones (Git y GitHub): Se utilizó Git para el control de versiones del proyecto y GitHub tanto para la creación de repositorios públicos y modificación del código fuente como para la colaboración entre los miembros del equipo de desarrollo.
+Herramientas para pruebas unitarias: Se utilizaron JUnit y Mockito para realizar pruebas unitarias.
+Vercel: Se utilizó Vercel para desplegar nuestra aplicación web, aprovechando sus capacidades de integración continua y facilidad para gestionar despliegues automáticos y rápidos.
+MySQL: Se utilizó una base de datos relacional MySQL para almacenar los datos de manera remota, garantizando un funcionamiento estable y escalable para nuestra aplicación.
+
+### 7.4.2. Monitoring Pipeline Components
+
+Nuestra base de datos MySQL es utilizada para almacenar y gestionar los datos relacionados con la funcionalidad y el comportamiento de la aplicación. Esto nos permite asegurar que el registro y la gestión de usuarios, junto con otras funciones críticas, se ejecuten de manera eficiente y sin interrupciones.
+
+### 7.4.3. Alerting Pipeline Components
+
+Se implementaron alertas basadas en el monitoreo de la base de datos MySQL para detectar posibles problemas en el rendimiento, como sobrecargas en las consultas o tiempos de respuesta elevados. Las alertas se envían al equipo responsable del mantenimiento en caso de que se detecte alguna anomalía en el uso o funcionamiento de la base de datos.
+
+### 7.4.4. Notification Pipeline Components.
+
+El sistema enviará notificaciones periódicas sobre el estado del sistema bajo condiciones normales y también en caso de incidentes. Además, se podrán configurar para recibir notificaciones sobre eventos importantes, como la implementación de nuevas funcionalidades o actualizaciones críticas.
