@@ -408,3 +408,105 @@ Las condiciones controladas establecen el marco adecuado para la correcta ejecuc
 - **Participantes:** Grupo reducido de usuarios en fase piloto
 - **Implementación:**  
   Los estudiantes seleccionados recibirán acceso gratuito a los beneficios exclusivos durante un periodo limitado. Al finalizar, se realizarán **encuestas integradas en la plataforma** para medir la intención de compra. Estos datos permitirán diseñar **paquetes personalizados** que se alineen mejor con las expectativas de los usuarios y optimicen las oportunidades de conversión.
+
+### 8.2.4. Scale Calculations and Decisions.
+
+Para StudiStay, la selección y aplicación de escalas de medición es fundamental para cuantificar el éxito de la plataforma en la búsqueda y oferta de alojamiento para estudiantes. A continuación, se detallan los pasos para implementar estas escalas:
+ 1. Establecimiento del marco temporal para la recopilación de datos: Recopilaremos datos trimestralmente para evaluar la efectividad de la aplicación en períodos académicos clave.
+ 2. Relevancia de las escalas: Las escalas deben ser diseñadas para reflejar las experiencias tanto de estudiantes como de arrendadores, asegurando que se capten sus necesidades y percepciones.
+ 3. Claridad en las escalas: Aseguraremos que las escalas sean fáciles de entender y responder para maximizar la participación de los usuarios en encuestas.
+4. Retroalimentación efectiva: Evaluaremos cómo las escalas influyen en las decisiones estratégicas sobre mejoras en la plataforma.
+5. Imparcialidad en las escalas: Desarrollaremos escalas que minimicen sesgos, garantizando resultados representativos.
+6. Diferenciación de escalas: Consideraremos escalas distintas para estudiantes y arrendadores para capturar mejor sus experiencias.
+7. Estructura de las escalas: Usaremos escalas de Likert (1 a 5) para medir satisfacción y efectividad.
+8. Validación de escalas: Realizaremos pruebas piloto para ajustar las escalas antes del despliegue total.
+9. Análisis de relación: Evaluaremos cómo los resultados de las escalas se alinean con nuestros objetivos de negocio.
+10. Tendencias temporales: Analizaremos cambios en las puntuaciones a lo largo del tiempo para identificar áreas de mejora.
+11. Sensibilidad a cambios: Las escalas deben poder captar mejoras significativas en la experiencia del usuario.
+12. Selección de escalas apropiadas: Focalizaremos en métricas como la satisfacción del usuario y la efectividad de la búsqueda.
+13. Rangos de puntuación: Estableceremos niveles de satisfacción que reflejen el rendimiento de la plataforma.
+14. Análisis estadístico: Calcularemos promedios y desviaciones estándar para evaluar resultados de encuestas.
+15. Escalas absolutas vs. relativas: Usaremos escalas absolutas para comparar experiencias a lo largo del tiempo.
+16. Umbrales de referencia: Definiremos niveles de satisfacción que consideraremos como éxito.
+17. Confiabilidad de las escalas: Aplicaremos pruebas de consistencia interna para asegurar la validez de las escalas.
+18. Validez de contenido: Revisaremos que las escalas cubran adecuadamente los aspectos relevantes de la experiencia del usuario.
+19. Ponderación de escalas: Evaluaremos la posibilidad de asignar mayor peso a métricas críticas como satisfacción y éxito en la búsqueda de alojamiento.
+
+### 8.2.5. Methods Selection.
+La selección de métodos es crucial para obtener datos precisos y relevantes sobre la plataforma StudiStay. Aquí se detallan las decisiones tomadas:
+1. Análisis cualitativo: Realizaremos entrevistas con estudiantes y arrendadores para identificar patrones y experiencias comunes.
+2. Integración de datos: Combinaremos datos cuantitativos y cualitativos para obtener una visión completa del impacto de la plataforma.
+3. Comunicación efectiva: Implementaremos un plan de comunicación para asegurar la participación activa de los usuarios en estudios.
+4. Enfoque cuantitativo: Utilizaremos encuestas para recolectar datos sobre la satisfacción del usuario y la efectividad de la búsqueda.
+5. Análisis estadístico: Implementaremos pruebas t y ANOVA para comparar las respuestas entre grupos de usuarios.
+6. Análisis de regresión: Evaluaremos factores que podrían predecir el éxito en la búsqueda de alojamiento.
+7. Análisis de contenido: Revisaremos respuestas abiertas para extraer información valiosa sobre experiencias de usuarios.
+8. Datos longitudinales: Recogeremos datos a lo largo del tiempo para evaluar el impacto y la evolución de la satisfacción del usuario.
+9. Software de análisis: Usaremos herramientas como Google Analytics y Excel para procesar datos cuantitativos.
+10. Evaluación de idoneidad: Nos aseguraremos de que los métodos seleccionados estén alineados con los objetivos del proyecto.
+11. Métodos prácticos: Elegiremos métodos que sean factibles de implementar en el entorno de alojamiento estudiantil.
+12. Participación activa: Fomentaremos la participación de usuarios en la recolección de datos para mejorar el compromiso.
+13. Validación por expertos: Consultaremos con expertos en investigación de usuarios para validar los métodos seleccionados.
+14. Diseño de encuestas: Creamos encuestas que sean fáciles de completar y que capten la información necesaria.
+15. Calidad de las entrevistas: Aseguraremos que las entrevistas sean estructuradas para obtener información útil.
+16. Ética y privacidad: Todos los métodos serán implementados de forma ética, garantizando la privacidad de los participantes.
+17. Variabilidad en recursos: Consideraremos la disponibilidad de tecnología entre los participantes al seleccionar métodos.
+18. Pertinencia de los métodos: Evaluaremos la efectividad de los métodos en el seguimiento del impacto de la plataforma.
+
+### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection.
+
+Los objetivos, KPIs y métricas para evaluar el éxito de StudiStay son los siguientes:
+Goals
+- Optimizar la búsqueda de alojamiento: Mejorar la eficiencia y eficacia en la conexión entre estudiantes y arrendadores.
+- Aumentar la satisfacción del usuario: Garantizar que los usuarios se sientan cómodos y seguros al usar la plataforma.
+- Facilitar la toma de decisiones informadas: Proporcionar datos relevantes que ayuden a estudiantes y arrendadores en su elección de alojamiento.
+
+Key Performance Indexes (KPIs)
+
+- Tasa de éxito en la reserva: Proporción de usuarios que logran concretar un alquiler a través de la plataforma.
+- Satisfacción del usuario: Puntuaciones promedio de satisfacción recibidas en encuestas post-uso.
+- Número de usuarios activos mensuales: Medida de la actividad en la plataforma durante un mes.
+
+Metrics
+
+- Tasa de conversión: Porcentaje de estudiantes que encuentran y reservan alojamiento.
+- Feedback de usuarios: Recopilación de comentarios y sugerencias sobre la experiencia de uso.
+- Interacción con la aplicación: Número de búsquedas realizadas por usuario en un período determinado.
+- Tasa de retención: Porcentaje de usuarios que regresan a la aplicación después de su primera experiencia.
+
+
+### 8.2.7. Web and Mobile Tracking Plan.
+
+El siguiente Tracking Plan detalla los eventos clave que rastreamos en StudiStay:
+![img.png](assets/img/cap81.png)
+Este plan permitirá a StudiStay evaluar la efectividad de la plataforma, comprender el comportamiento de los usuarios y realizar mejoras continuas en la experiencia de búsqueda y oferta de alojamiento.
+
+## 8.3. Experimentation
+### 8.3.1. To-Be User Stories.
+Para esta sección, identificamos las características y funciones que cumplen las historias de usuario clave del proyecto StudiStay. Desde la anterior entrega se hizo un análisis en concreto para cada uno de manera que se puedan refinar y adaptar a necesidades que puedan tener los usuarios resultando en un mejor cumplimiento del objetivo propuesto.
+
+
+
+      HU11 - Editar publicación
+·      Como arrendador quiero modificar o editar una publicación para corregir uno o varios errores o actualizar la información de la publicación.
+
+·       Estado Inicial: La publicación tardaba un poco en cargar los cambios
+·   	Cambios: Se mejoró la experiencia de edición recortando los tiempos entre ediciones
+·       Estado Final: La función funciona como se esperaba proporcionando flexibilidad y legalidad al usuario
+
+HU17 - Reservar una habitación
+·       Como estudiante quiero reservar una habitación para hospedarme un cierto tiempo cerca de mi universidad o instituto.
+·   	Estado Inicial: Inicialmente, la función no se encontraba operativa
+·   	Cambios: Se hicieron los respectivos cambios e implementaciones en la función.
+·       Estado Final: La página permite reservar habitaciones
+HU18 - Añadir método de pago
+·   	Como estudiante quiero añadir algún método de pago para efectuar el pago de mi reserva
+·   	Estado Inicial: Comenzó con una funcionalidad básica que no proporcionaba la función de añadir los métodos de pago.
+·   	Cambios: Se ajustó para permitir a los clientes registrar un método de pago
+·   	Estado Final: La función de añadir método de pago está operativa, dando la confianza que se merecen a los usuarios.
+
+
+
+### 8.3.2. To-Be Product Backlog
+
+![img.png](img.png)
