@@ -509,4 +509,4 @@ HU18 - Añadir método de pago
 
 ### 8.3.2. To-Be Product Backlog
 
-![img.png](img.png)
+![img.png](assets/img/img.png)
