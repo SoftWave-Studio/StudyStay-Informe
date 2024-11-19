@@ -171,19 +171,7 @@ Estas preguntas listas para la experimentación nos permitirán enfocarnos en as
 
 ---
 
-#### **Experiment Card 6 – Beneficios adicionales en planes premium y suscripciones**
-- **Question:**  
-  ¿Los beneficios adicionales en los planes premium incrementan las suscripciones?
-- **Why:**  
-  Validar si ofrecer beneficios específicos atrae más suscriptores.
-- **What:**  
-  Añadir ventajas como **prioridad en búsquedas** y medir las suscripciones durante 3 meses.
-- **Hipótesis:**  
-  Las **suscripciones premium** aumentarán en un **15%** en 3 meses tras implementar los beneficios.
-
----
-
-#### **Experiment Card 7 – Disposición de los estudiantes a pagar por beneficios exclusivos**
+#### **Experiment Card 6 – Disposición de los estudiantes a pagar por beneficios exclusivos**
 - **Question:**  
   ¿Qué tan dispuestos están los estudiantes a pagar por beneficios exclusivos dentro de la plataforma?
 - **Why:**  
@@ -319,17 +307,7 @@ Estas hipótesis no solo se centran en las expectativas generales sino también 
 
 ---
 
-#### **Hypothesis 6 – Beneficios adicionales en planes premium y suscripciones**
-- **Hipótesis:**  
-  La inclusión de beneficios adicionales en los planes premium incrementará las suscripciones en un 15% durante los primeros tres meses.
-- **Aspecto técnico de la hipótesis:**  
-  Los nuevos beneficios se gestionarán mediante un módulo de administración que permitirá añadir ventajas como búsquedas destacadas o alertas tempranas para propiedades populares. Las métricas de adopción se integrarán en el dashboard del equipo de marketing.
-- **Posible prueba técnica:**  
-  Se validará que los beneficios premium se asignen sin demoras y se medirán las tasas de cancelación y conversión para ajustar el modelo de negocio.
-
----
-
-#### **Hypothesis 7 – Disposición de los estudiantes a pagar por beneficios exclusivos**
+#### **Hypothesis 6 – Disposición de los estudiantes a pagar por beneficios exclusivos**
 - **Hipótesis:**  
   Al menos el 50% de los estudiantes encuestados estarán dispuestos a pagar hasta 50 soles mensuales por beneficios exclusivos.
 - **Aspecto técnico de la hipótesis:**  
