@@ -231,7 +231,7 @@ Estas preguntas listas para la experimentación nos permitirán enfocarnos en as
 
 ---
 
-**Experiment Card 7 – Disposición de los estudiantes a pagar por beneficios exclusivos**
+**Experiment Card 6 – Disposición de los estudiantes a pagar por beneficios exclusivos**
 
 | **Question**  | ¿Qué tan dispuestos están los estudiantes a pagar por beneficios exclusivos dentro de la plataforma? |
 |---------------|-----------------------------------------------------------------------------------------------------|
