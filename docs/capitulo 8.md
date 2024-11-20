@@ -179,7 +179,7 @@ Estas preguntas listas para la experimentación nos permitirán enfocarnos en as
 - **What:**  
   Realizar **encuestas y pruebas piloto** durante 2 meses para evaluar el interés por planes exclusivos.
 - **Hipótesis:**  
-  Al menos el **50%** de los estudiantes encuestados estarán dispuestos a pagar por beneficios adicionales de hasta **50 soles mensuales**.
+  Al menos el **50%** de los encuestados estarán dispuestos a pagar por beneficios adicionales de hasta **50 soles mensuales**.
 
 ### **Experiment Card 1 – Filtros más utilizados por los estudiantes**
 
