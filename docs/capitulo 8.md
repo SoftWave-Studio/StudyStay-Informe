@@ -179,7 +179,7 @@ Estas preguntas listas para la experimentación nos permitirán enfocarnos en as
 - **What:**  
   Realizar **encuestas y pruebas piloto** durante 2 meses para evaluar el interés por planes exclusivos.
 - **Hipótesis:**  
-  Al menos el **50%** de los estudiantes encuestados estarán dispuestos a pagar por beneficios adicionales de hasta **50 soles mensuales**.
+  Al menos el **50%** de los encuestados estarán dispuestos a pagar por beneficios adicionales de hasta **50 soles mensuales**.
 
 ### **Experiment Card 1 – Filtros más utilizados por los estudiantes**
 
@@ -231,17 +231,7 @@ Estas preguntas listas para la experimentación nos permitirán enfocarnos en as
 
 ---
 
-**Experiment Card 6 – Beneficios adicionales en planes premium y suscripciones**
-
-| **Question**  | ¿Los beneficios adicionales en los planes premium incrementan las suscripciones? |
-|---------------|----------------------------------------------------------------------------------|
-| **Why**       | Validar si ofrecer beneficios específicos atrae más suscriptores.                |
-| **What**      | Añadir ventajas como **prioridad en búsquedas** y medir las suscripciones durante 3 meses. |
-| **Hipótesis** | Las **suscripciones premium** aumentarán en un **15%** en 3 meses tras implementar los beneficios. |
-
----
-
-**Experiment Card 7 – Disposición de los estudiantes a pagar por beneficios exclusivos**
+**Experiment Card 6 – Disposición de los estudiantes a pagar por beneficios exclusivos**
 
 | **Question**  | ¿Qué tan dispuestos están los estudiantes a pagar por beneficios exclusivos dentro de la plataforma? |
 |---------------|-----------------------------------------------------------------------------------------------------|
@@ -307,14 +297,6 @@ Estas hipótesis no solo se centran en las expectativas generales sino también 
 
 ---
 
-#### **Hypothesis 6 – Disposición de los estudiantes a pagar por beneficios exclusivos**
-- **Hipótesis:**  
-  Al menos el 50% de los estudiantes encuestados estarán dispuestos a pagar hasta 50 soles mensuales por beneficios exclusivos.
-- **Aspecto técnico de la hipótesis:**  
-  Se llevará a cabo una encuesta dentro de la plataforma, diseñada para identificar qué ventajas adicionales valoran más los usuarios. Basándose en los resultados, se diseñarán paquetes exclusivos y se activarán en una prueba piloto con un pequeño grupo de usuarios.
-- **Posible métrica técnica:**  
-  La plataforma monitoreará el comportamiento de compra y la tasa de adopción de estos beneficios exclusivos durante los dos meses de prueba.
-
 ### **8.2.2 Measures**
 A continuación, se presenta un cuadro detallado de las métricas que se utilizarán para cada experimento. Estas métricas han sido seleccionadas para garantizar una evaluación precisa y orientada a resultados, con submétricas específicas para profundizar en los aspectos clave del desempeño de la plataforma **StudiStay**.
 
@@ -370,14 +352,6 @@ Las condiciones controladas establecen el marco adecuado para la correcta ejecuc
 - **Participantes:** Todos los arrendadores activos
 - **Implementación:**  
   El sistema de clasificación por ranking se basará en criterios como **tiempo de respuesta**, **calificaciones de usuarios** y **frecuencia de publicaciones**. Las clasificaciones se mostrarán públicamente en los perfiles de los arrendadores para fomentar la competencia saludable. El ranking se actualizará en tiempo real, reflejando cambios en el desempeño de manera inmediata para mantener la motivación de los arrendadores.
-
----
-
-#### **Beneficios adicionales en planes premium**
-- **Duración:** 3 meses
-- **Participantes:** Grupo piloto seleccionado aleatoriamente
-- **Implementación:**  
-  Los nuevos beneficios, como **alertas prioritarias** y **búsquedas destacadas**, se ofrecerán primero a un grupo piloto para evaluar su efectividad. Una vez validados, estos beneficios se extenderán al resto de los usuarios premium. Se garantizará que las ventajas se activen sin interrupciones a través del **sistema de gestión automática** de la plataforma.
 
 ---
 
@@ -488,6 +462,88 @@ HU18 - Añadir método de pago
 ### 8.3.2. To-Be Product Backlog
 
 ![img.png](assets/img/img.png)
+
+### 8.3.3.6. Team Collaboration Insights
+
+Para el desarrollo de la app web todos los repositorios se realizaron en github, utilizando la herramienta de webstorm. A continuación, se mostrará el gráfico de commits de los trabajos, como el reporte, frontend y backend
+
+Reporte:
+
+![img.png](assets/img/team-informe.png)
+
+Frontend:
+
+![img_1.png](assets/img/team-frontend.png)
+
+Backend:
+
+![img_2.png](assets/img/team-backend.png)
+## 8.3.4. To-Be Validation Interviews
+### 8.3.4.1. Diseño de Entrevistas.
+
+*Le explicamos brevemente de lo que trata la aplicación*
+
+StudiStay es una aplicación diseñada para brindar respaldo a estudiantes universitarios e institucionales en la búsqueda de alojamiento. Les permite comparar diversas opciones de viviendas cercanas a sus centros de estudio. Esto facilita la visualización de las propiedades, la comunicación con los propietarios y la programación de citas para futuros alquileres. Con esta solución de software, estamos comprometidos en agilizar y asegurar una búsqueda efectiva para arrendadores y estudiantes, ofreciendo una alternativa rápida, segura y eficiente.
+
+
+Preguntas:
+- ¿Eres estudiante?
+- ¿Cual es tu opinión acerca de la web?
+- Del 1 al 10, ¿Cual seria tu puntuación para la web?
+- Con la propuesta mostrada (Experiment card) ¿Consideras que sería un buen añadido para la web?
+- ¿Cuál sería tu puntuación para la web con este añadido?
+
+
+### 8.3.4.2. Registro de Entrevistas.
+
+**Experiment Card 1:**
+
+**Nombre del Entrevistado:** Andre Valdivieso
+
+**Edad:** 18
+
+**Ocupación:** Estudiante
+
+**Enlace de la entrevista:** [Andre Study.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EU9_JYy2GY5EkgkaIsJ_MAcBPoWzxIqM9EJZqlXMwlPT3Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=d70fr5)
+
+![img.png](assets/img/andre-tobe.png)
+
+**Resumen de la entrevista:**
+
+Andre nos comenta que la web se le hace bastante cómoda y simple a la vista, lo cual le parece bastante cómodo para el uso, además nos comenta que su puntuación sería de 8/10. Tras mostrarle el figma, nos comentó que le parecería una gran implementación a la web, y que con eso seria perfecta para el, dandonos un 10/10
+
+**Experiment Card 2:**
+
+**Nombre del Entrevistado:** Joseph Hilario
+
+**Edad:** 21
+
+**Ocupación:** Estudiante
+
+**Enlace de la entrevista:** [Joseph Study.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/ETHNJ2lkaU1IgN9k96dYRTABbd3rDf3GwQoiW8c6GdGqJQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=c7G2c4)
+
+![img.png](assets/img/joseph-tobe.png)
+
+**Resumen de la entrevista:**
+
+Joseph nos comenta que la web le parece una gran propuesta, sobre todo para los estudiantes que se encuentren lejos de sus instituciones educativas, le parece cómoda y simple para el uso, facilitando su entendimiento. Nos comentó que la propuesta le parece un gran añadido a la web, y que de esta manera se podría facilitar más el filtro de búsqueda.
+
+**Experiment Card 3:**
+
+**Nombre del Entrevistado:** Ximena Canchaya
+
+**Edad:** 18
+
+**Ocupación:** Estudiante
+
+**Enlace de la entrevista:** [Xime Study.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EfxQt6_MqjlPguwF0luT3ccB46nHycV1En0PjCJZbNdgkQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HeBUEz)
+
+![img.png](assets/img/ximena-tobe.png)
+
+**Resumen de la entrevista:**
+
+Ximena comenta que la web le parece bastante intuitiva y cómoda, además nos dice que le parece muy interesante la propuesta y que está muy bien organizada la web. Tras presentarle el figma con la propuesta de la experiment card, nos comenta que sería un gran añadido para la web y que eso podría ser más cómodo para algunos usuarios, de esta manera aumentando el flujo, dándonos un 10/10.
+
 
 
 
