@@ -231,16 +231,6 @@ Estas preguntas listas para la experimentación nos permitirán enfocarnos en as
 
 ---
 
-**Experiment Card 6 – Beneficios adicionales en planes premium y suscripciones**
-
-| **Question**  | ¿Los beneficios adicionales en los planes premium incrementan las suscripciones? |
-|---------------|----------------------------------------------------------------------------------|
-| **Why**       | Validar si ofrecer beneficios específicos atrae más suscriptores.                |
-| **What**      | Añadir ventajas como **prioridad en búsquedas** y medir las suscripciones durante 3 meses. |
-| **Hipótesis** | Las **suscripciones premium** aumentarán en un **15%** en 3 meses tras implementar los beneficios. |
-
----
-
 **Experiment Card 7 – Disposición de los estudiantes a pagar por beneficios exclusivos**
 
 | **Question**  | ¿Qué tan dispuestos están los estudiantes a pagar por beneficios exclusivos dentro de la plataforma? |
@@ -307,14 +297,6 @@ Estas hipótesis no solo se centran en las expectativas generales sino también 
 
 ---
 
-#### **Hypothesis 6 – Disposición de los estudiantes a pagar por beneficios exclusivos**
-- **Hipótesis:**  
-  Al menos el 50% de los estudiantes encuestados estarán dispuestos a pagar hasta 50 soles mensuales por beneficios exclusivos.
-- **Aspecto técnico de la hipótesis:**  
-  Se llevará a cabo una encuesta dentro de la plataforma, diseñada para identificar qué ventajas adicionales valoran más los usuarios. Basándose en los resultados, se diseñarán paquetes exclusivos y se activarán en una prueba piloto con un pequeño grupo de usuarios.
-- **Posible métrica técnica:**  
-  La plataforma monitoreará el comportamiento de compra y la tasa de adopción de estos beneficios exclusivos durante los dos meses de prueba.
-
 ### **8.2.2 Measures**
 A continuación, se presenta un cuadro detallado de las métricas que se utilizarán para cada experimento. Estas métricas han sido seleccionadas para garantizar una evaluación precisa y orientada a resultados, con submétricas específicas para profundizar en los aspectos clave del desempeño de la plataforma **StudiStay**.
 
@@ -370,14 +352,6 @@ Las condiciones controladas establecen el marco adecuado para la correcta ejecuc
 - **Participantes:** Todos los arrendadores activos
 - **Implementación:**  
   El sistema de clasificación por ranking se basará en criterios como **tiempo de respuesta**, **calificaciones de usuarios** y **frecuencia de publicaciones**. Las clasificaciones se mostrarán públicamente en los perfiles de los arrendadores para fomentar la competencia saludable. El ranking se actualizará en tiempo real, reflejando cambios en el desempeño de manera inmediata para mantener la motivación de los arrendadores.
-
----
-
-#### **Beneficios adicionales en planes premium**
-- **Duración:** 3 meses
-- **Participantes:** Grupo piloto seleccionado aleatoriamente
-- **Implementación:**  
-  Los nuevos beneficios, como **alertas prioritarias** y **búsquedas destacadas**, se ofrecerán primero a un grupo piloto para evaluar su efectividad. Una vez validados, estos beneficios se extenderán al resto de los usuarios premium. Se garantizará que las ventajas se activen sin interrupciones a través del **sistema de gestión automática** de la plataforma.
 
 ---
 
