@@ -463,6 +463,88 @@ HU18 - Añadir método de pago
 
 ![img.png](assets/img/img.png)
 
+### 8.3.3.6. Team Collaboration Insights
+
+Para el desarrollo de la app web todos los repositorios se realizaron en github, utilizando la herramienta de webstorm. A continuación, se mostrará el gráfico de commits de los trabajos, como el reporte, frontend y backend
+
+Reporte:
+
+![img.png](assets/img/team-informe.png)
+
+Frontend:
+
+![img_1.png](assets/img/team-frontend.png)
+
+Backend:
+
+![img_2.png](assets/img/team-backend.png)
+## 8.3.4. To-Be Validation Interviews
+### 8.3.4.1. Diseño de Entrevistas.
+
+*Le explicamos brevemente de lo que trata la aplicación*
+
+StudiStay es una aplicación diseñada para brindar respaldo a estudiantes universitarios e institucionales en la búsqueda de alojamiento. Les permite comparar diversas opciones de viviendas cercanas a sus centros de estudio. Esto facilita la visualización de las propiedades, la comunicación con los propietarios y la programación de citas para futuros alquileres. Con esta solución de software, estamos comprometidos en agilizar y asegurar una búsqueda efectiva para arrendadores y estudiantes, ofreciendo una alternativa rápida, segura y eficiente.
+
+
+Preguntas:
+- ¿Eres estudiante?
+- ¿Cual es tu opinión acerca de la web?
+- Del 1 al 10, ¿Cual seria tu puntuación para la web?
+- Con la propuesta mostrada (Experiment card) ¿Consideras que sería un buen añadido para la web?
+- ¿Cuál sería tu puntuación para la web con este añadido?
+
+
+### 8.3.4.2. Registro de Entrevistas.
+
+**Experiment Card 1:**
+
+**Nombre del Entrevistado:** Andre Valdivieso
+
+**Edad:** 18
+
+**Ocupación:** Estudiante
+
+**Enlace de la entrevista:** [Andre Study.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EU9_JYy2GY5EkgkaIsJ_MAcBPoWzxIqM9EJZqlXMwlPT3Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=d70fr5)
+
+![img.png](assets/img/andre-tobe.png)
+
+**Resumen de la entrevista:**
+
+Andre nos comenta que la web se le hace bastante cómoda y simple a la vista, lo cual le parece bastante cómodo para el uso, además nos comenta que su puntuación sería de 8/10. Tras mostrarle el figma, nos comentó que le parecería una gran implementación a la web, y que con eso seria perfecta para el, dandonos un 10/10
+
+**Experiment Card 2:**
+
+**Nombre del Entrevistado:** Joseph Hilario
+
+**Edad:** 21
+
+**Ocupación:** Estudiante
+
+**Enlace de la entrevista:** [Joseph Study.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/ETHNJ2lkaU1IgN9k96dYRTABbd3rDf3GwQoiW8c6GdGqJQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=c7G2c4)
+
+![img.png](assets/img/joseph-tobe.png)
+
+**Resumen de la entrevista:**
+
+Joseph nos comenta que la web le parece una gran propuesta, sobre todo para los estudiantes que se encuentren lejos de sus instituciones educativas, le parece cómoda y simple para el uso, facilitando su entendimiento. Nos comentó que la propuesta le parece un gran añadido a la web, y que de esta manera se podría facilitar más el filtro de búsqueda.
+
+**Experiment Card 3:**
+
+**Nombre del Entrevistado:** Ximena Canchaya
+
+**Edad:** 18
+
+**Ocupación:** Estudiante
+
+**Enlace de la entrevista:** [Xime Study.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EfxQt6_MqjlPguwF0luT3ccB46nHycV1En0PjCJZbNdgkQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HeBUEz)
+
+![img.png](assets/img/ximena-tobe.png)
+
+**Resumen de la entrevista:**
+
+Ximena comenta que la web le parece bastante intuitiva y cómoda, además nos dice que le parece muy interesante la propuesta y que está muy bien organizada la web. Tras presentarle el figma con la propuesta de la experiment card, nos comenta que sería un gran añadido para la web y que eso podría ser más cómodo para algunos usuarios, de esta manera aumentando el flujo, dándonos un 10/10.
+
+
 
 
 
