@@ -496,12 +496,11 @@ HU18 - Añadir método de pago
 ## 8.5. Continuous Learning
 ### 8.5.1. Shareback Session Artifacts: Learning Workflow
 
-Para el presente proyecto se utilizo un Stack conformado por JavaScript, Prime vue, Fast api, Python y MySQL siendo cada una clave para labores de codificación tanto para el Frontend como  el Backend, a continuación se redactará el proposito y el software empleado para cada labor:
-
+Para el presente proyecto se utilizó un Stack conformado por JavaScript, Prime vue, Fast api, Python y MySQL siendo cada una clave para labores de codificación tanto para el Frontend como  el Backend, a continuación se redactará el propósito y el software empleado para cada labor:
 
 ### Experiencia/interfaz de usuario 
 
-Empleamos el software de Figma debido a su simplicaidad pero perfecta funcionalidad de diseño para mostrar una pagina sencilla y fácil de manejar.
+Empleamos el software de Figma debido a su simplicidad pero perfecta funcionalidad de diseño para mostrar una página sencilla y fácil de manejar.
 
 
 ![Github](https://github.com/user-attachments/assets/8f2fcfe8-04dc-4f6e-84cb-f32cc2071851)
@@ -509,7 +508,8 @@ Empleamos el software de Figma debido a su simplicaidad pero perfecta funcionali
 
 ### Frontend
 
-Para el apartado de Fronted, utilzamos el framework Prime Vue que ofrece una compatibildiad alta y velocidad de desarrollo significativa en distintos entornos, junto con JavaScript y su versatilidad resultan en rendimiento y experiencia de usuario de alta calidad. 
+
+Para el apartado de Fronted, utilizamos el framework Prime Vue que ofrece una compatibilidad alta y velocidad de desarrollo significativa en distintos entornos, junto con JavaScript y su versatilidad resultan en rendimiento y experiencia de usuario de alta calidad. 
 
 ![Prime](https://github.com/user-attachments/assets/103bec2d-7220-47ab-8b57-518b465ba2a2)
 
@@ -527,12 +527,12 @@ Para el apartado de Backend, se empleó el framework FastAPI, que, gracias a su 
 
 ### Monitoreo
 
-El software que se empleo para monitorear el proyecto, especificamente Backend y Base de datos, fue MySql Workbench gracias a su interfaz amigable, sus herramientas de monitoreo en tiempo real y los reportes automaticos lo hacen una opcion mas que eficiente para el monitoreo del proyecto.
+El software que se empleó para monitorear el proyecto, específicamente Backend y Base de datos, fue MySql Workbench gracias a su interfaz amigable, sus herramientas de monitoreo en tiempo real y los reportes automáticos lo hacen una opción más que eficiente para el monitoreo del proyecto.
 
 ![Workbench](https://github.com/user-attachments/assets/8dbade38-77ac-41f3-ab53-4d65d7c824ee)
 
 
-### Sistema para el registro y control de veriones
+### Sistema para el registro y control de versiones
 
 En este apartado utilizamos GitHub, separando en un repositorio el backend, frontend, informe entre otros archivos clave para la resolución de nuestro proyecto.
 
@@ -541,8 +541,8 @@ En este apartado utilizamos GitHub, separando en un repositorio el backend, fron
 
 ### Despliegues
 
-Para el deploy del trabajo primeramente tanto Fronted y Backend se deployaron utilizando vercel ya que ofrece una plataforma con despliegue continuo y soporte CDN que garantiza una experiencia rapida y global.
-Para el apartado de la base de datos, el deploy se realizo en Clever Cloud ya que gracias a la automatizacione en trabajos multiples y el soporte nativo para disntintos lenguajes ofrece un despliegue sin complicaciones.
+Para el deploy del trabajo primeramente tanto Fronted y Backend se utilizó vercel ya que ofrece una plataforma con despliegue continuo y soporte CDN que garantiza una experiencia rápida y global.
+Para el apartado de la base de datos, el deploy se realizó en Clever Cloud ya que gracias a la automatización en trabajos múltiples y el soporte nativo para distintos lenguajes ofrece un despliegue sin complicaciones
 
 ![Vercel](https://github.com/user-attachments/assets/9acf3be7-d952-43f7-8659-3088fbe299b0)
 
