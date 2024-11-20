@@ -181,6 +181,16 @@
 - [Anexos](#anexos-1)
 
 ### [Conclusiones](#conclusiones)
+Como equipo, construir StudiStay nos ha dado una visión mucho más clara del valor de los experimentos y pruebas en el desarrollo de software. A lo largo del proceso, entendimos que no se trata solo de escribir código, sino de validar constantemente nuestras decisiones a través de experimentos bien planteados.
+
+Cada iteración nos permitió aprender algo nuevo. Desde los primeros tests unitarios hasta las pruebas de integración y BDD, fuimos afinando el comportamiento del sistema. Nos dimos cuenta de que los experimentos no solo son herramientas para confirmar lo que creíamos saber, sino para descubrir áreas de mejora que no habríamos detectado de otra forma.
+
+Este enfoque nos ayudó a construir de manera más segura, reduciendo riesgos y mejorando la calidad de cada funcionalidad antes de que llegara a los usuarios finales. Además, la colaboración en la creación y ejecución de estos tests fue crucial; cada miembro aportó su perspectiva y habilidades, lo que enriqueció el proceso.
+
+Reflexionando, creo que la verdadera construcción de StudiStay no fue solo en el desarrollo visible, sino en los ciclos continuos de prueba y aprendizaje que nos guiaron hacia un producto más sólido y confiable. Este enfoque experimental se convirtió en la base de cómo resolvimos problemas y aseguramos que cada paso estuviera alineado con las necesidades reales de nuestros usuarios.
+
+A lo largo del desarrollo del proyecto, queda claro que la comunicación entre los miembros del equipo ha sido fundamental para el éxito del proyecto. Los desafíos tanto técnicos como de diseño fueron más fáciles gracias al análisis conjunto de las posibles soluciones, cambios, soluciones, entre otros. Esto nos permitió crear alternativas más adaptables a los requisitos del proyecto. Este proceso de aprendizaje resultó en un producto final que refleja una visión colectiva que proporciona una página sólida y robusta.
+
 
 ### [Bibliografía](#bibliografía)
 
