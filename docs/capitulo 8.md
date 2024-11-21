@@ -545,6 +545,61 @@ Joseph nos comenta que la web le parece una gran propuesta, sobre todo para los 
 Ximena comenta que la web le parece bastante intuitiva y cómoda, además nos dice que le parece muy interesante la propuesta y que está muy bien organizada la web. Tras presentarle el figma con la propuesta de la experiment card, nos comenta que sería un gran añadido para la web y que eso podría ser más cómodo para algunos usuarios, de esta manera aumentando el flujo, dándonos un 10/10.
 
 
+**Experiment Card 4:**
+
+**Nombre del Entrevistado:** Fernando Salazar
+
+**Edad:** 21
+
+**Ocupación:** Estudiante
+
+**Enlace de la entrevista:** [Card 4 entrevista](https://www.youtube.com/watch?v=AIdjfOekxJ8&t=75s)
+
+![Card 4 entrevista](assets/img/Card%20entrevista%204.jpg)
+
+
+**Resumen de la entrevista:**
+
+Fernando comenta que la web le parece intuitiva y cómoda de navegar, destacando que su estructura es clara y está bien organizada. Además, menciona que la funcionalidad propuesta le resulta ideal, ya que considera que podría serle de gran ayuda al momento de realizar sus actividades dentro de la plataforma. Añade que le gustaría mucho que se implemente esta funcionalidad, ya que considera que sería un aporte valioso para mejorar la experiencia de los usuarios. Finalmente, aunque valora la propuesta, la califica con un 3/5, indicando que aún hay aspectos que se podrían optimizar.
+
+
+
+**Experiment Card 5:**
+
+**Nombre del Entrevistado:** Franco Yance
+
+**Edad:** 21
+
+**Ocupación:** Estudiante/Arrendatario
+
+**Enlace de la entrevista:** [Card 4 entrevista]( https://www.youtube.com/watch?v=bceFYma5Msk)
+
+![Card 4 entrevista](assets/img/Card%20entrevista%205.jpg)
+
+
+**Resumen de la entrevista:**
+
+Franco comenta que la propuesta del sistema de ranking le parece muy interesante y útil, ya que considera que podría mejorar su nivel de atención y la calidad de sus servicios. Tras explicarle cómo funciona el ranking, menciona que le ayudaría a destacarse frente a otros arrendadores y facilitaría el alquiler de sus habitaciones. En general, está de acuerdo con la idea y cree que podría tener un impacto positivo en su negocio, calificando la propuesta como una gran herramienta para atraer más clientes.
+
+
+**Experiment Card 6:**
+
+**Nombre del Entrevistado:** Carlos Fernandez
+
+**Edad:** 21
+
+**Ocupación:** Estudiante/Arrendatario
+
+**Enlace de la entrevista:** [Card 4 entrevista]( https://www.youtube.com/watch?v=ftkHRDKtTE8&t=6s)
+
+![Card 4 entrevista](assets/img/Card%20entrevista%206.jpg)
+
+
+**Resumen de la entrevista:**
+
+Carlos comenta que la aplicación le parece útil y bien diseñada, destacando que la propuesta de un plan premium es conveniente, ya que facilita los procesos y ahorra tiempo, algo muy valioso para los estudiantes. También menciona que aunque él pagaría los 50 soles propuestos, considera que un precio más accesible, como 30 o 40 soles, podría atraer a más usuarios, especialmente considerando las diferentes situaciones económicas de los estudiantes. En general, califica positivamente la propuesta y resalta que el ahorro de tiempo sería un gran beneficio.
+
+
 
 
 
