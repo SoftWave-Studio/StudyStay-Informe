@@ -664,4 +664,7 @@ Para el apartado de la base de datos, el deploy se realizó en Clever Cloud ya q
 
 ### 8.6.1. About-the-Product Intro Video
 
-Video
+![WhatsApp Image 2024-11-20 at 20 20 04](https://github.com/user-attachments/assets/b6f05557-ca14-401f-949d-4848e863e040)
+
+Link Drive: https://drive.google.com/file/d/1zpZrQ4Wdi7NMqeMNkgEPa4ZPYKr12BXM/view?usp=sharing
+Link Youtube: https://youtu.be/qdBccls014Y 
